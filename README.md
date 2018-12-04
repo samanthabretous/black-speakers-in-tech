@@ -8,14 +8,14 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
 
 **The only criteria for adding speakers to this list is that your speaker is in the development/tech/web space.**
 
-#### Format: 
+#### Format:
 
 ```
-#### Full Name 
+#### Full Name
 
 - [@twitterhandle](http://twitter.com/)
-- Topics - 
-- Location - 
+- Topics -
+- Location -
 ```
 
 - [Speakers](#speakers)
@@ -117,7 +117,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Arlan Hamilton
 
 - [@ArlanWasHere](http://twitter.com/ArlanWasHere)
-- Topics - Venture capital funding 
+- Topics - Venture capital funding
 - Location - West Hollywood, California
 
 #### Quinnton J Harris
@@ -159,7 +159,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Angie Jones
 
 - [@techgirl1908](http://twitter.com/techgirl1908)
-- Topics - Automation 
+- Topics - Automation
 - Location - San Francisco, California
 
 #### Rokeya Jones
@@ -189,7 +189,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Adil Kadir
 
 - [@adilrhymes](http://twitter.com/adilrhymes)
-- Topics - Product 
+- Topics - Product
 - Location - Los Angeles, California
 
 #### Brandon Kearns
@@ -302,13 +302,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Kevin Stewart
 
 - [@kstewart](http://twitter.com/kstewart)
-- Topics - Building teams, Data Engineering 
+- Topics - Building teams, Data Engineering
 - Location - Seattle, Washington
 
 #### Everette Taylor
 
 - [@Everette](http://twitter.com/Everette)
-- Topics - Entrepreneurship,  Marketing 
+- Topics - Entrepreneurship,  Marketing
 - Location - Los Angeles, California
 
 #### Richard L Taylor Jr
@@ -345,6 +345,10 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - AWS, Facial recognition, JavaScript
 - Location - Atlanta, Georgia
 
+#### Troy Connor
+- [@troy0820](http://twitter.com/troy082)
+- Topics - NodeJS, Kubernetes, Docker, Diversity in Tech
+- Location - Hampton Roads, Virginia
 
 ### Europe
 
