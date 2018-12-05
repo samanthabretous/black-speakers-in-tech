@@ -461,7 +461,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Ogbunude Lemuel
 
--[@lemuelOgbunude](https://twitter.com/lemuelOgbunude)
+- [@lemuelOgbunude](https://twitter.com/lemuelOgbunude)
 - Topics - Android Development, Java, Kotlin, Dart
 - Location - Abuja, Nigeria
 
