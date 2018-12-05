@@ -425,3 +425,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@ireaderinokun](https://twitter.com/ireaderinokun)
 - Topics - Frontend Development, UI Design, JavaScript
 - Location - Lagos, Nigeria
+
+###  Shedrack Akintayo
+
+- [@coder_blvck](https://twitter.con/coder_blvck)
+- Topics - Reactjs, Javascript, Open Source
+- Location - Lagos, Nigeria
+
+### Ada Nduka Oyom
+
+- [@kolokodess](https://twitter.com/kolokodess)
+- Topics - Building Communities, Developer Relations, Open Source
+- Location - Lagos, Nigeria
