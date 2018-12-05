@@ -23,6 +23,7 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
   - [Europe](#europe)
   - [Nigeria](#nigeria)
   - [Kenya](#kenya)
+  - [Zambia](#zambia)
 
 ---
 
