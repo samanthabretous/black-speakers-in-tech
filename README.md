@@ -400,10 +400,28 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Growing juniors
 - Location - London, England
 
+#### Sani Yusuf
+
+- [@saniyusuf](https://twitter.com/saniyusuf)
+- Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
+- Location - London, England
+
 ### Nigeria
 
 #### Prosper Otemuyiwa
 
-- [@unicodeveloper](http://twitter.com/unicodeveloper)
-- Topics - Apollo, GraphQL, Building Communities
+- [@unicodeveloper](https://twitter.com/unicodeveloper)
+- Topics - Apollo, GraphQL, Webpack, Realtime Communication, Authentication and Security, Image and Video Performance, Building Communities
+- Location - Lagos, Nigeria
+
+#### Christian Nwamba
+
+- [@codebeast](https://twitter.com/codebeast)
+- Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
+- Location - Lagos, Nigeria
+
+#### Ire Aderinokun
+
+- [@ireaderinokun](https://twitter.com/ireaderinokun)
+- Topics - Frontend Development, UI Design, JavaScript
 - Location - Lagos, Nigeria
