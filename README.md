@@ -22,6 +22,7 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
   - [United States](#united-states)
   - [Europe](#europe)
   - [Nigeria](#nigeria)
+  - [Kenya](#kenya)
 
 ---
 
@@ -401,3 +402,23 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@unicodeveloper](http://twitter.com/unicodeveloper)
 - Topics - Apollo, GraphQL, Building Communities
 - Location - Lagos, Nigeria
+
+### Kenya
+
+#### Eton Otieno
+
+- [@eton_otieno](http://twitter.com/eton_otieno)
+- Topics - Android, Kotlin
+- Location - Nairobi, Kenya
+
+#### Juma Allan
+
+- [@_ jumaallan](https://twitter.com/_jumaallan)
+- Topics - Android, Kotlin, Golang
+- Location - Nairobi, Kenya
+
+#### Frank Tamre
+
+- [@tamrefrank](https://twitter.com/tamrefrank)
+- Topics - Android, Kotlin, HTML and CSS
+- Location - Nairobi, Kenya, Building Communities
