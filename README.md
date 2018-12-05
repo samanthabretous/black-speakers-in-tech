@@ -401,3 +401,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@unicodeveloper](http://twitter.com/unicodeveloper)
 - Topics - Apollo, GraphQL, Building Communities
 - Location - Lagos, Nigeria
+
+#### Christian Nwamba
+
+- [@codebeast](http://twitter.com/codebeast)
+- Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
+- Location - Lagos, Nigeria
