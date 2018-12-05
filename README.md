@@ -405,7 +405,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Shodipo Ayomide
 
 - [@developerayo](https://twitter.com/developerayo)
-- Topics - PHP, Javascript, Open-Source, Web Performance Building Communities.
+- Topics - PHP, Javascript, Open-Source, Web Performance, Building Communities.
 - Location - Lagos, Nigeria
 
 #### Adewale Abati
