@@ -401,3 +401,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@unicodeveloper](http://twitter.com/unicodeveloper)
 - Topics - Apollo, GraphQL, Building Communities
 - Location - Lagos, Nigeria
+
+#### Michael Okoh
+
+- [@trojanokoh](http://twitter.com/trojanokoh)
+- Topics - Web Development and DevOps
+- Location - Lagos, Nigeria
