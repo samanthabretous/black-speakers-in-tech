@@ -401,3 +401,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@unicodeveloper](http://twitter.com/unicodeveloper)
 - Topics - Apollo, GraphQL, Building Communities
 - Location - Lagos, Nigeria
+
+#### Shodipo Ayomide
+
+- [@developerayo](https://twitter.com/developerayo)
+- Topics - PHP, Javascript, Open-Source, Web Performance Building Communities.
+- Location - Lagos, Nigeria
+
+#### Adewale Abati
+
+- [@ace_kyd](https://twitter.com/ace_kyd)
+- Topics - PHP, Laravel, Javascript, Open-Source.
+- Location - Lagos, Nigeria
+
+#### Neo Ighodaro
+
+- [@neoighodaro](https://twitter.com/neoighodaro)
+- Topics - PHP, Laravel, Javascript.
+- Location - Lagos, Nigeria
