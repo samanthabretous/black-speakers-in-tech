@@ -33,6 +33,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### United States
 
+#### Jyrone Parker
+- [@mastashake08](https://twitter.com/mastashake08)
+- Topics - Progressive web apps, Laravel, Vue, React and Tech Entrepreneurship
+- Location - Louisville, Kentucky
+
 #### Salih Abdul-Karim
 
 - Topics - UX Design, Diversity
