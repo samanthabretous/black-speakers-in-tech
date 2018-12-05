@@ -487,3 +487,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@tamrefrank](https://twitter.com/tamrefrank)
 - Topics - Android, Kotlin, HTML and CSS
 - Location - Nairobi, Kenya, Building Communities
+
+### Zambia 
+
+#### Daniel Madalitso Phiri
+
+- [@malgamves](https://twitter.com/malgamves)
+- Topics - JavaScript (Vue), GraphQL, Community, Git, Tech Entrepreneurship
+- Location - Lusaka, Zambia & touring India
