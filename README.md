@@ -394,6 +394,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Growing juniors
 - Location - London, England
 
+#### Sani Yusuf
+
+- [@saniyusuf](https://twitter.com/saniyusuf)
+- Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
+- Location - London, England
+
 ### Nigeria
 
 #### Prosper Otemuyiwa
