@@ -22,6 +22,7 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
   - [United States](#united-states)
   - [Europe](#europe)
   - [Nigeria](#nigeria)
+  - [Kenya](#kenya)
 
 ---
 
@@ -32,6 +33,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ## Speakers
 
 ### United States
+
+#### Jyrone Parker
+- [@mastashake08](https://twitter.com/mastashake08)
+- Topics - Progressive web apps, Laravel, Vue, React and Tech Entrepreneurship
+- Location - Louisville, Kentucky
 
 #### Salih Abdul-Karim
 
@@ -143,6 +149,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@Kolor_Koded_101](http://twitter.com/Kolor_Koded_101)
 - Topics - Data Science
 - Location - Silicon Valley, California
+
+#### Asia Hoe
+
+- [@asiahoe](https://twitter.com/asiahoe)
+- Topics - UX, Design for Good
+- Location - New York, NY
 
 #### Amal Hussein
 
@@ -394,12 +406,42 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Growing juniors
 - Location - London, England
 
+#### Sani Yusuf
+
+- [@saniyusuf](https://twitter.com/saniyusuf)
+- Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
+- Location - London, England
+
 ### Nigeria
 
 #### Prosper Otemuyiwa
 
-- [@unicodeveloper](http://twitter.com/unicodeveloper)
-- Topics - Apollo, GraphQL, Building Communities
+- [@unicodeveloper](https://twitter.com/unicodeveloper)
+- Topics - Apollo, GraphQL, Webpack, Realtime Communication, Authentication and Security, Image and Video Performance, Building Communities
+- Location - Lagos, Nigeria
+
+#### Christian Nwamba
+
+- [@codebeast](https://twitter.com/codebeast)
+- Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
+- Location - Lagos, Nigeria
+
+#### Ire Aderinokun
+
+- [@ireaderinokun](https://twitter.com/ireaderinokun)
+- Topics - Frontend Development, UI Design, JavaScript
+- Location - Lagos, Nigeria
+
+###  Shedrack Akintayo
+
+- [@coder_blvck](https://twitter.con/coder_blvck)
+- Topics - Reactjs, Javascript, Open Source
+- Location - Lagos, Nigeria
+
+### Ada Nduka Oyom
+
+- [@kolokodess](https://twitter.com/kolokodess)
+- Topics - Building Communities, Developer Relations, Open Source
 - Location - Lagos, Nigeria
 
 #### Michael Okoh
@@ -407,3 +449,41 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@trojanokoh](http://twitter.com/trojanokoh)
 - Topics - Web Development and DevOps
 - Location - Lagos, Nigeria
+
+#### Shodipo Ayomide
+
+- [@developerayo](https://twitter.com/developerayo)
+- Topics - PHP, Javascript, Open-Source, Web Performance, Building Communities.
+- Location - Lagos, Nigeria
+
+#### Adewale Abati
+
+- [@ace_kyd](https://twitter.com/ace_kyd)
+- Topics - PHP, Laravel, Javascript, Open-Source.
+- Location - Lagos, Nigeria
+
+#### Neo Ighodaro
+
+- [@neoighodaro](https://twitter.com/neoighodaro)
+- Topics - PHP, Laravel, Javascript.
+- Location - Lagos, Nigeria
+
+### Kenya
+
+#### Eton Otieno
+
+- [@eton_otieno](http://twitter.com/eton_otieno)
+- Topics - Android, Kotlin
+- Location - Nairobi, Kenya
+
+#### Juma Allan
+
+- [@_ jumaallan](https://twitter.com/_jumaallan)
+- Topics - Android, Kotlin, Golang
+- Location - Nairobi, Kenya
+
+#### Frank Tamre
+
+- [@tamrefrank](https://twitter.com/tamrefrank)
+- Topics - Android, Kotlin, HTML and CSS
+- Location - Nairobi, Kenya, Building Communities
