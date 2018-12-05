@@ -444,6 +444,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Building Communities, Developer Relations, Open Source
 - Location - Lagos, Nigeria
 
+#### Michael Okoh
+
+- [@trojanokoh](http://twitter.com/trojanokoh)
+- Topics - Web Development and DevOps
+- Location - Lagos, Nigeria
+
 #### Shodipo Ayomide
 
 - [@developerayo](https://twitter.com/developerayo)
