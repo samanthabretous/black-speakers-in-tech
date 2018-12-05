@@ -468,6 +468,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, Laravel, Javascript.
 - Location - Lagos, Nigeria
 
+#### Wale Ayandiran
+
+- [@walecloud](https://twitter.com/walecloud)
+- Topics - Cloud & DevOps, Software Engineering.
+- Location - Lagos, Nigeria
+
 ### Kenya
 
 #### Eton Otieno
@@ -487,3 +493,5 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@tamrefrank](https://twitter.com/tamrefrank)
 - Topics - Android, Kotlin, HTML and CSS
 - Location - Nairobi, Kenya, Building Communities
+
+
