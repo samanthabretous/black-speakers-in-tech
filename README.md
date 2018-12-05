@@ -10,6 +10,8 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
 
 #### Format:
 
+Please add speakers alphabetical by last name. 
+
 ```
 #### Full Name
 
@@ -23,6 +25,7 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
   - [Europe](#europe)
   - [Nigeria](#nigeria)
   - [Kenya](#kenya)
+  - [Canada](#canada)
 
 ---
 
@@ -33,11 +36,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ## Speakers
 
 ### United States
-
-#### Jyrone Parker
-- [@mastashake08](https://twitter.com/mastashake08)
-- Topics - Progressive web apps, Laravel, Vue, React and Tech Entrepreneurship
-- Location - Louisville, Kentucky
 
 #### Salih Abdul-Karim
 
@@ -66,6 +64,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@_Tiacaldwell](http://twitter.com/_Tiacaldwell)
 - Topics - Leadership
 - Location - San Francisco, California
+
+#### Troy Connor
+- [@troy0820](http://twitter.com/troy082)
+- Topics - NodeJS, Kubernetes, Docker, Diversity in Tech
+- Location - Hampton Roads, Virginia
+
+#### Chris Crawford
+
+- [@chris_crawford_](https://twitter.com/chris_crawford_)
+- Topics - Neurotech, Robotics, Brain-Computer Interfaces
+- Location - Tuscaloosa, Alabama
 
 #### Kim Crayton
 
@@ -251,11 +260,23 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Testing, JavaScript, Ruby on Rails
 - Location - New York, New York
 
+#### Tirell McKinnon
+
+- [@TirellMckinnon](http://twitter.com/TirellMckinnon)
+- Topics - JavaScript
+- Location - Charlotte, North Carolina
+
 #### Jeff Nelson
 
 - [@thatJeffNelson](http://twitter.com/thatJeffNelson)
 - Topics - Technical business development
 - Location - Atlanta, Georgia
+
+#### Adekunle Oduye
+
+- [@adekunleoduye](http://twitter.com/adekunleoduye)
+- Topics - Front End Tolling, Design Systems
+- Location - Brooklyn, New York
 
 #### Mekka Okereke
 
@@ -268,6 +289,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@thistimeitsmimi](http://twitter.com/thistimeitsmimi)
 - Topics - Data
 - Location - Brooklyn, New York
+
+#### Leo Osahor
+
+- [@losahor](http://twitter.com/)
+- Topics - Startups, Leadership, Career Development. 
+- Location – Seattle, Washington
+
+#### Jyrone Parker
+- [@mastashake08](https://twitter.com/mastashake08)
+- Topics - Progressive web apps, Laravel, Vue, React and Tech Entrepreneurship
+- Location - Louisville, Kentucky
 
 #### Delane Parnell
 
@@ -351,16 +383,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Cloud Development
 - Location - Atlanta, Georgia
 
+#### Dr. Nicki Washington
+
+- [@dr_nickiw](http://twitter.com/dr_nickiw)
+- Topics - Diversity, Equity, and Inclusion, K-16 CS Education, and K-12 Curriculum/Standards
+- Location - Charlotte, North Carolina
+
 #### Kesha Williams
 
 - [@KeshaWillz](http://twitter.com/KeshaWillz)
 - Topics - AWS, Facial recognition, JavaScript
 - Location - Atlanta, Georgia
-
-#### Troy Connor
-- [@troy0820](http://twitter.com/troy082)
-- Topics - NodeJS, Kubernetes, Docker, Diversity in Tech
-- Location - Hampton Roads, Virginia
 
 ### Europe
 
@@ -414,16 +447,10 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Nigeria
 
-#### Prosper Otemuyiwa
+#### Adewale Abati
 
-- [@unicodeveloper](https://twitter.com/unicodeveloper)
-- Topics - Apollo, GraphQL, Webpack, Realtime Communication, Authentication and Security, Image and Video Performance, Building Communities
-- Location - Lagos, Nigeria
-
-#### Christian Nwamba
-
-- [@codebeast](https://twitter.com/codebeast)
-- Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
+- [@ace_kyd](https://twitter.com/ace_kyd)
+- Topics - PHP, Laravel, Javascript, Open-Source.
 - Location - Lagos, Nigeria
 
 #### Ire Aderinokun
@@ -438,28 +465,10 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Reactjs, Javascript, Open Source
 - Location - Lagos, Nigeria
 
-### Ada Nduka Oyom
-
-- [@kolokodess](https://twitter.com/kolokodess)
-- Topics - Building Communities, Developer Relations, Open Source
-- Location - Lagos, Nigeria
-
-#### Michael Okoh
-
-- [@trojanokoh](http://twitter.com/trojanokoh)
-- Topics - Web Development and DevOps
-- Location - Lagos, Nigeria
-
 #### Shodipo Ayomide
 
 - [@developerayo](https://twitter.com/developerayo)
 - Topics - PHP, Javascript, Open-Source, Web Performance, Building Communities.
-- Location - Lagos, Nigeria
-
-#### Adewale Abati
-
-- [@ace_kyd](https://twitter.com/ace_kyd)
-- Topics - PHP, Laravel, Javascript, Open-Source.
 - Location - Lagos, Nigeria
 
 #### Neo Ighodaro
@@ -468,13 +477,43 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, Laravel, Javascript.
 - Location - Lagos, Nigeria
 
+#### Ekwuno Obinna
+
+- [@Obinnaspeaks](https://twitter.com/Obinnaspeaks)
+- Topics - Documentation, Github, Open Source
+- Location - Enugu, Nigeria   
+
+#### Michael Okoh
+
+- [@trojanokoh](http://twitter.com/trojanokoh)
+- Topics - Web Development and DevOps
+- Location - Lagos, Nigeria
+
+#### Prosper Otemuyiwa
+
+- [@unicodeveloper](https://twitter.com/unicodeveloper)
+- Topics - Apollo, GraphQL, Webpack, Realtime Communication, Authentication and Security, Image and Video Performance, Building Communities
+- Location - Lagos, Nigeria
+
+#### Oluwatobi Oyinlola
+
+- [@TobiOyinlola](https://twitter.com/TobiOyinlola)
+- Topics - IoT, Embedded Computing, Hyperloop
+- Location - Nigeria
+
+### Ada Nduka Oyom
+
+- [@kolokodess](https://twitter.com/kolokodess)
+- Topics - Building Communities, Developer Relations, Open Source
+- Location - Lagos, Nigeria
+
+#### Christian Nwamba
+
+- [@codebeast](https://twitter.com/codebeast)
+- Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
+- Location - Lagos, Nigeria
+
 ### Kenya
-
-#### Eton Otieno
-
-- [@eton_otieno](http://twitter.com/eton_otieno)
-- Topics - Android, Kotlin
-- Location - Nairobi, Kenya
 
 #### Juma Allan
 
@@ -482,8 +521,34 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android, Kotlin, Golang
 - Location - Nairobi, Kenya
 
+#### Eton Otieno
+
+- [@eton_otieno](http://twitter.com/eton_otieno)
+- Topics - Android, Kotlin
+- Location - Nairobi, Kenya
+
 #### Frank Tamre
 
 - [@tamrefrank](https://twitter.com/tamrefrank)
 - Topics - Android, Kotlin, HTML and CSS
 - Location - Nairobi, Kenya, Building Communities
+
+### Canada
+
+#### Hassan Djirdeh
+
+- [@djirdehh](http://twitter.com/djirdehh)
+- Topics - Vue.js, Workshops
+- Location - Toronto, Canada
+
+#### Henri Helvetica
+
+- [@HenriHelvetica](http://twitter.com/HenriHelvetica)
+- Topics - Web Performance & Technologies
+- Location - Toronto, Canada
+
+#### Jason Matthews
+
+- [@frontvu](http://twitter.com/frontvu)
+- Topics - Javascript, React Native, A11y
+- Location - Toronto, Canada
