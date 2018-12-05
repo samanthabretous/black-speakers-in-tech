@@ -144,6 +144,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Data Science
 - Location - Silicon Valley, California
 
+#### Asia Hoe
+
+- [@asiahoe](https://twitter.com/asiahoe)
+- Topics - UX, Design for Good
+- Location - New York, NY
+
 #### Amal Hussein
 
 - [@nomadtechie](http://twitter.com/nomadtechie )
