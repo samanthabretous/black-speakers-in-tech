@@ -24,9 +24,9 @@ Please add speakers alphabetical by last name.
   - [United States](#united-states)
   - [Europe](#europe)
   - [Nigeria](#nigeria)
+  - [Niger](#niger)
   - [Kenya](#kenya)
   - [Canada](#canada)
-  - [Niger](#niger)
 ---
 
 ## Code of Conduct
