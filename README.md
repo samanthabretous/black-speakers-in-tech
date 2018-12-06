@@ -278,6 +278,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Front End Tolling, Design Systems
 - Location - Brooklyn, New York
 
+#### Omose Ogala
+
+- [@omoseisreal](http://twitter.com/omoseisreal)
+- Topics - Automation, iOS Development
+- Location - San Francisco, California
+
 #### Mekka Okereke
 
 - [@mekkaokereke](http://twitter.com/mekkaokereke)
