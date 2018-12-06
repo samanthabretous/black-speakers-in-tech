@@ -513,6 +513,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
 - Location - Lagos, Nigeria
 
+#### Segun Famisa
+
+- [@segunfamisa](https://twitter.com/segunfamisa)
+- Topics - Android, Kotlin, Android best practices
+- Location - Düsseldorf, Germany 
+
 ### Kenya
 
 #### Juma Allan
