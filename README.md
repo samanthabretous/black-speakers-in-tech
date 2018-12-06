@@ -26,7 +26,7 @@ Please add speakers alphabetical by last name.
   - [Nigeria](#nigeria)
   - [Kenya](#kenya)
   - [Canada](#canada)
-
+  - [Niger](#niger)
 ---
 
 ## Code of Conduct
@@ -403,6 +403,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - TensorFlow.js, JavaScript
 - Location - Cambridge, England
 
+#### Segun Famisa
+
+- [@segunfamisa](https://twitter.com/segunfamisa)
+- Topics - Android, Kotlin, Android best practices
+- Location - Düsseldorf, Germany 
+
 #### Alex Fefegha
 
 - [@fxfegha](http://twitter.com/fxfegha)
@@ -513,11 +519,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
 - Location - Lagos, Nigeria
 
-#### Segun Famisa
+### Niger
 
-- [@segunfamisa](https://twitter.com/segunfamisa)
-- Topics - Android, Kotlin, Android best practices
-- Location - Düsseldorf, Germany 
+#### Daouada Hamadou
+
+- [@hamadoudao](https://twitter.com/hamadoudao)
+- Topics - Xamarin, Android, Google cloud
+- Location - Niamey, Niger
 
 ### Kenya
 
