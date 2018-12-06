@@ -513,6 +513,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
 - Location - Lagos, Nigeria
 
+#### Okanlawon Emmanuel
+
+- [@solarsoft0](https://twitter.com/solarsoft0)
+- Topics - Laravel, JavaScript, React, React Native, Microservice, Building Communities
+- Location - Lagos, Nigeria
+
+#### Ademola Adegbuyi
+
+- [@_ooade](https://twitter.com/_ooade)
+- Topics - JavaScript, React, Building Communities
+- Location - Lagos, Nigeria
+
 ### Kenya
 
 #### Juma Allan
