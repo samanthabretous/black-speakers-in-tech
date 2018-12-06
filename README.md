@@ -26,6 +26,7 @@ Please add speakers alphabetical by last name.
   - [Nigeria](#nigeria)
   - [Kenya](#kenya)
   - [Canada](#canada)
+  - [Zambia](#zambia)
 
 ---
 
@@ -552,3 +553,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@frontvu](http://twitter.com/frontvu)
 - Topics - Javascript, React Native, A11y
 - Location - Toronto, Canada
+
+###Zambia
+
+#### Mukuma Musenge
+
+- [@sour_bones](http://twitter.com/sour_bones)
+- Topics - Communitiy Advocacy, Workshops, Laravel, Lifecycle Development
+- Location - Lusaka, Zambia
