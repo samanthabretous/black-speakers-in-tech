@@ -307,6 +307,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - GAme Development
 - Location - Los Angeles, California
 
+#### John Paz
+
+- [@TechWriterNinja](https://twitter.com/TechWriterNinja
+- Topics - Technical Writing, Content Design, UX Writing, Non-technical Tech Jobs, Blatino topics, Parenting, UX Design, Living Abroad, Atlassian, Agile
+- Location - San Francisco Bay Area, California (willing to travel, too)
+
 #### Momo Pixel
 
 - [@MomoUhOh](http://twitter.com/MomoUhOh)
