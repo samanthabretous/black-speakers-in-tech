@@ -166,6 +166,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Tech Leadership, UX
 - Location - Atlanta, Georgia
 
+#### Dashon 'DJ' Hawkins
+
+- [@Dashon_Hawkins](https://twitter.com/dashon_hawkins)
+- Topics - Javascript, Node.js, React, ReactNative, JAMstack, Progressive Web Applications (PWA's), Headless CMS, Serverless, GraphQL, FaunaDB, Computational Thinking, Entrepeneurship, Fullstack Web Development, Startups, Business Credit Education, Diversity/Inclusion, Emotional Intelligence, Imposter Syndrome, Coding Bootcamps, Tech Leadearship, Mentorship, Formerly Incarcerated Individuals in Tech, WordPress, community building, personal brand building
+- Location - Phoenix, Arizona (Originally from New Orleans, Louisiana)
+
 #### Sarah Groff Hennigh-Palermo
 
 - [@superSGP](http://twitter.com/superSGP)
