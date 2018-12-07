@@ -25,6 +25,7 @@ Please add speakers alphabetical by last name.
   - [Europe](#europe)
   - [Nigeria](#nigeria)
   - [Niger](#niger)
+  - [Cameroon](#cameroon)
   - [Kenya](#kenya)
   - [Zambia](#zambia)
   - [Canada](#canada)
@@ -602,6 +603,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@hamadoudao](https://twitter.com/hamadoudao)
 - Topics - Xamarin, Android, Google cloud
 - Location - Niamey, Niger
+
+### Cameroon
+
+#### Farouk Sabiou
+
+- [@sabiiou](https://twitter.com/sabiiou)
+- Topics - Abdroid, java, Kotlin, Firebase
+- Location - Douala, Cameroon
 
 ### Kenya
 
