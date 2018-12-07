@@ -26,6 +26,7 @@ Please add speakers alphabetical by last name.
   - [Nigeria](#nigeria)
   - [Niger](#niger)
   - [Kenya](#kenya)
+  - [Zambia](#zambia)
   - [Canada](#canada)
 ---
 
@@ -65,6 +66,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Leadership
 - Location - San Francisco, California
 
+#### J. Clemonts Junior
+
+- [@Technificent989](http://twitter.com/Technificent989)
+- Topics - Cybersecurity, Infosec, Technology integration into businesses, Education
+- Location - Washington DC
+
 #### Troy Connor
 - [@troy0820](http://twitter.com/troy082)
 - Topics - NodeJS, Kubernetes, Docker, Diversity in Tech
@@ -81,6 +88,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@KimCrayton1](http://twitter.com/KimCrayton1)
 - Topics - Diversity in Tech
 - Location - Atlanta, Georgia
+
+#### Jenifer Daniels
+
+- [@jentrification](http://twitter.com/jentrification)
+- Topics - Diversity & Inclusion, Social Impact Investing, Branding, Entrepreneurship
+- Location - Detroit, Michigan
 
 #### Yolanda M. Davis
 
@@ -141,6 +154,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Entrepreneurship
 - Location - Bay Area, California
 
+#### Ruben Harris
+
+- [@rubenharris](http://twitter.com/rubenharris)
+- Topics - Entrepreneurship, Startups
+- Location - San Francisco, California
+
 #### Susa Hart
 
 - [@smhart1](http://twitter.com/smhart1)
@@ -198,6 +217,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Jowanza Joseph
 
 - [@jowanza](http://twitter.com/jowanza)
+- Topics - Data Engineering, Apache Pulsar
+- Location - Salt Lake City, Utah
+
+#### Jowanza Joseph
+
+- [@LawrenceRJ](http://twitter.com/LawrenceRJ)
 - Topics - Data Engineering, Apache Pulsar
 - Location - Salt Lake City, Utah
 
@@ -310,8 +335,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Delane Parnell
 
 - [@delane](http://twitter.com/delane)
-- Topics - GAme Development
+- Topics - Game Development
 - Location - Los Angeles, California
+
+#### Maxime Paul
+
+- [@Maxap](http://twitter.com/Maxap)
+- Topics - Startups, Leadership, Career Development
+- Location - Atlanta, Georgia
 
 #### John Paz
 
@@ -341,6 +372,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@CraigRodrigues](http://twitter.com/CraigRodrigues)
 - Topics - Career Development
+- Location - Atlanta, Georgia
+
+#### Rodney Sampson
+
+- [@rodneysampson](http://twitter.com/rodneysampson)
+- Topics - Entrepreneurship, venture investment, startup ecosystem building, inclusion & racial equity
 - Location - Atlanta, Georgia
 
 #### LaSean Smith
@@ -415,11 +452,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - TensorFlow.js, JavaScript
 - Location - Cambridge, England
 
+#### Gavin Dennis
+
+- [@HackingGavin](http://twitter.com/HackingGavin)
+- Topics - Offensive Security, Security Awareness, Security Operations
+- Location - Europe
+
 #### Segun Famisa
 
 - [@segunfamisa](https://twitter.com/segunfamisa)
 - Topics - Android, Kotlin, Android best practices
-- Location - Düsseldorf, Germany 
+- Location - Düsseldorf, Germany
 
 #### Alex Fefegha
 
@@ -477,10 +520,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Frontend Development, UI Design, JavaScript
 - Location - Lagos, Nigeria
 
+#### Ademola Adegbuyi
+- [@_ooade](https://twitter.com/_ooade)
+- Topics - JavaScript, React, Building Communities
+- Location - Lagos, Nigeria
+
 ###  Shedrack Akintayo
 
 - [@coder_blvck](https://twitter.con/coder_blvck)
 - Topics - Reactjs, Javascript, Open Source
+- Location - Lagos, Nigeria
+
+#### Wale Ayandiran
+
+- [@walecloud](https://twitter.com/walecloud)
+- Topics - Cloud & DevOps, Software Engineering.
 - Location - Lagos, Nigeria
 
 #### Shodipo Ayomide
@@ -489,11 +543,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, Javascript, Open-Source, Web Performance, Building Communities.
 - Location - Lagos, Nigeria
 
+#### Okanlawon Emmanuel
+- [@solarsoft0](https://twitter.com/solarsoft0)
+- Topics - Laravel, JavaScript, React, React Native, Microservice, Building Communities
+- Location - Lagos, Nigeria
+
 #### Neo Ighodaro
 
 - [@neoighodaro](https://twitter.com/neoighodaro)
 - Topics - PHP, Laravel, Javascript.
 - Location - Lagos, Nigeria
+
+#### Ogbunude Lemuel
+- [@lemuelOgbunude](https://twitter.com/lemuelOgbunude)
+- Topics - Android Development, Java, Kotlin, Dart
+- Location - Abuja, Nigeria
 
 #### Ekwuno Obinna
 
@@ -556,8 +620,20 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Frank Tamre
 
 - [@tamrefrank](https://twitter.com/tamrefrank)
-- Topics - Android, Kotlin, HTML and CSS
-- Location - Nairobi, Kenya, Building Communities
+- Topics - Android, Kotlin, HTML and CSS, Building Communities
+- Location - Nairobi, Kenya 
+
+### Zambia
+
+#### Mukuma Musenge
+- [@sour_bones](http://twitter.com/sour_bones)
+- Topics - Communitiy Advocacy, Workshops, Laravel, Lifecycle Development
+- Location - Lusaka, Zambia
+
+#### Daniel Madalitso Phiri
+ - [@malgamves](https://twitter.com/malgamves)
+- Topics - JavaScript, Vue, GraphQL, Community, Git, Tech Entrepreneurship
+- Location - Lusaka, Zambia
 
 ### Canada
 
