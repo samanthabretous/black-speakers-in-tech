@@ -562,7 +562,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Ekwuno Obinna
 
 - [@Obinnaspeaks](https://twitter.com/Obinnaspeaks)
-- Topics - Documentation, Github, Open Source
+- Topics - Documentation, Github, JavaScript, Community Advocate, Open Source
 - Location - Enugu, Nigeria   
 
 #### Michael Okoh
