@@ -374,6 +374,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Career Development
 - Location - Atlanta, Georgia
 
+#### Carlos Rymer
+
+- [@carlosrymer](https://twitter.com/carlosrymer)
+- Topics - Engineering Management, Leadership, Building on the Cloud, Lean UX, Javascript
+- Location - New York, NY
+
 #### Rodney Sampson
 
 - [@rodneysampson](http://twitter.com/rodneysampson)
