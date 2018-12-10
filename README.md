@@ -297,6 +297,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript
 - Location - Charlotte, North Carolina
 
+#### James Mickens
+
+- [@markovmickens](https://twitter.com/markovmickens)
+- Topics - Computer Science, Security, Machine Learning
+- Location - Cambridge, Massachusetts
+
 #### Jeff Nelson
 
 - [@thatJeffNelson](http://twitter.com/thatJeffNelson)
