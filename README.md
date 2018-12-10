@@ -114,6 +114,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Cloud Development
 - Location - Brooklyn, New York
 
+#### Chantal Emmanuel
+
+- [@chantalemmanuel](http://twitter.com/chantalemmanuel)
+- Topics - Engineering, Startup/Entrepreneurship 
+- Location - Bay Area
+
 #### Den Fran
 
 - [@denisu81](http://twitter.com/denisu81)
