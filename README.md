@@ -175,7 +175,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Sarah Groff Hennigh-Palermo
 
 - [@superSGP](http://twitter.com/superSGP)
-- Topics - Allyship
+- Topics - Javascript, Code and Art, Errors
 - Location - Brooklyn, New York
 
 #### Allison Higgins
