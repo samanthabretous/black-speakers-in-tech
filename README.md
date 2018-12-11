@@ -67,6 +67,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Leadership
 - Location - San Francisco, California
 
+#### Nyah Check
+
+- [@nyah_check](http://twitter.com/nyah_check)
+- Topics - Cloud Security, Go, Open Source
+- Location - San Francisco, California
+
 #### J. Clemonts Junior
 
 - [@Technificent989](http://twitter.com/Technificent989)
@@ -154,6 +160,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@ArlanWasHere](http://twitter.com/ArlanWasHere)
 - Topics - Venture capital funding
 - Location - West Hollywood, California
+
+#### Shawntera Hardy
+
+- [@shawnterahardy](http://linkedin.com/in/shawnterahardy)
+- Topics - Community Development and Internet of Things; Civic / Gov Tech; Equity and Technology 
+- Location - St. Paul, Minnesota 
 
 #### Quinnton J Harris
 
