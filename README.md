@@ -44,6 +44,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - UX Design, Diversity
 - Location - California
 
+#### Monsurat Adebanjo
+
+- [@Ms_Monsura](http://twitter.com/Ms_Monsura)
+- Topics - Diversity & Inclusion, Utilizing Tech For Social Good, Transforming Social Mediums Into Safe Spaces, Technology & Art
+- Location - New York, New York 
+
 #### Tae'lur Alexis
 
 - [@TaelurAlexis](http://twitter.com/TaelurAlexis)
@@ -207,7 +213,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@asiahoe](https://twitter.com/asiahoe)
 - Topics - UX, Design for Good
-- Location - New York, NY
+- Location - New York, New York
 
 #### Amal Hussein
 
@@ -409,7 +415,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@carlosrymer](https://twitter.com/carlosrymer)
 - Topics - Engineering Management, Leadership, Building on the Cloud, Lean UX, Javascript
-- Location - New York, NY
+- Location - New York, New York
 
 #### Rodney Sampson
 
