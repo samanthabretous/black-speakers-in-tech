@@ -638,6 +638,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
 - Location - Lagos, Nigeria
 
+#### Timothy Ovie
+
+- [@timothy_ovie](http://twitter.com/timothy_ovie)
+- Topics - Building Communities, Technical writing and Documentation, Github, Technology
+- Location - Warri, Nigeria
+
 ### Niger
 
 #### Daouada Hamadou
