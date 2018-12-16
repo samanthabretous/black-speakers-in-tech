@@ -15,7 +15,7 @@ Please add speakers alphabetical by last name.
 ```
 #### Full Name
 
-- [@twitterhandle](http://twitter.com/)
+- [@twitterhandle](http://twitter.com/username)
 - Topics -
 - Location -
 ```
