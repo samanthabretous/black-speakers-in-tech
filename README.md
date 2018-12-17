@@ -56,6 +56,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Career Development
 - Location - Seattle, Washington
 
+#### Ashlee Ammons
+
+- [@Mixtroz](http://twitter.com/Mixtroz)
+- Topics - Start ups, Black in Tech, Pitching, Fundraising
+- Location - Birmingham, AL
+
 #### Kimberlee Archer
 
 - Topics - AR/ VR
@@ -78,6 +84,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@nyah_check](http://twitter.com/nyah_check)
 - Topics - Cloud Security, Go, Open Source
 - Location - San Francisco, California
+
+#### Ashley Christman
+
+- [@learnlivelean](http://twitter.com/learnlivelean)
+- Topics - Agile Game development, Serious games for Ed, gamification, Diversity in games, Indie development
+- Location - California
 
 #### J. Clemonts Junior
 
@@ -148,6 +160,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@osagaius](http://twitter.com/osagaius)
 - Topics - React Native, Elixir
 - Location - Atlanta, Georgia
+
+#### Jeremy Gaston
+
+- [@jrmygstn](http://twitter.com/jrmygstn)
+- Topics - Designing a better experience, UI Design, Product Architecture, Diversity & Integration (not Inclusion)
+- Location - Plano, Texas
 
 #### Alfred Glover
 
@@ -248,12 +266,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Jowanza Joseph
 
 - [@jowanza](http://twitter.com/jowanza)
-- Topics - Data Engineering, Apache Pulsar
-- Location - Salt Lake City, Utah
-
-#### Jowanza Joseph
-
-- [@LawrenceRJ](http://twitter.com/LawrenceRJ)
 - Topics - Data Engineering, Apache Pulsar
 - Location - Salt Lake City, Utah
 
@@ -423,6 +435,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Entrepreneurship, venture investment, startup ecosystem building, inclusion & racial equity
 - Location - Atlanta, Georgia
 
+#### Kerry Schrader
+
+- [@Mixtroz](http://twitter.com/Mixtroz)
+- Topics - Start ups, Black in Tech, Pitching, Fundraising
+- Location - Nashville, TN
+
 #### LaSean Smith
 
 - [@lasean](http://twitter.com/lasean)
@@ -570,8 +588,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ###  Shedrack Akintayo
 
-- [@coder_blvck](https://twitter.con/coder_blvck)
+- [@coder_blvck](https://twitter.com/coder_blvck)
 - Topics - Reactjs, Javascript, Open Source
+- Location - Lagos, Nigeria
+
+###  Eyitayo Alimi 
+
+- [@coder_blvck](https://twitter.com/coder_blvck)
+- Topics - Technology , Community, DevOps
 - Location - Lagos, Nigeria
 
 #### Wale Ayandiran
@@ -608,6 +632,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Documentation, Github, JavaScript, Community Advocate, Open Source
 - Location - Enugu, Nigeria   
 
+#### Kutaje J. Oghenevwaire
+
+- [@Kutajbaba](http://twitter.com/Kutajbaba)
+- Topics - Design in Tech
+- Location - Nigeria
+
 #### Michael Okoh
 
 - [@trojanokoh](http://twitter.com/trojanokoh)
@@ -632,17 +662,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Building Communities, Developer Relations, Open Source
 - Location - Lagos, Nigeria
 
-#### Christian Nwamba
-
-- [@codebeast](https://twitter.com/codebeast)
-- Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
-- Location - Lagos, Nigeria
-
 #### Timothy Ovie
 
 - [@timothy_ovie](http://twitter.com/timothy_ovie)
 - Topics - Building Communities, Technical writing and Documentation, Github, Technology
 - Location - Warri, Nigeria
+
+#### Christian Nwamba
+
+- [@codebeast](https://twitter.com/codebeast)
+- Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
+- Location - Lagos, Nigeria
 
 ### Niger
 
