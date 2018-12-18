@@ -581,11 +581,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Frontend Development, UI Design, JavaScript
 - Location - Lagos, Nigeria
 
-### Johnson Ogwuru
-- [@devopsjay](https://twitter.com/devopsjay)
-- Topics - Backend Development, Design Patterns and Principles(SOLID), NodeJs, Microservices, Golang
-- Location - Lagos, Nigeria
-
 #### Ademola Adegbuyi
 - [@_ooade](https://twitter.com/_ooade)
 - Topics - JavaScript, React, Building Communities
@@ -642,6 +637,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@Kutajbaba](http://twitter.com/Kutajbaba)
 - Topics - Design in Tech
 - Location - Nigeria
+
+### Johnson Ogwuru
+- [@devopsjay](https://twitter.com/devopsjay)
+- Topics - Backend Development, Design Patterns and Principles(SOLID), NodeJs, Microservices, Golang
+- Location - Lagos, Nigeria
 
 #### Michael Okoh
 
