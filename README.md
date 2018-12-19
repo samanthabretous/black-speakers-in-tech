@@ -290,7 +290,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Tariq M. King
 
 - [@tariq_king](http://twitter.com/tariq_king)
-- Topics - Angular
+- Topics - Angular, AI in testing
 - Location - Florida
 
 #### Kamilah Z Kiser
