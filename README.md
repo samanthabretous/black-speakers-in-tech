@@ -685,6 +685,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
 - Location - Lagos, Nigeria
 
+#### Ogbonda Chiziaruhoma
+
+  - [@zfinix1](https://twitter.com/zfinix1)
+- Topics - Android Development, Flutter, UI/UX Design, Java, Dart
+- Location - Lagos, Nigeria
+
 ### Niger
 
 #### Daouada Hamadou
