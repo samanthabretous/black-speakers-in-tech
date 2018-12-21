@@ -610,10 +610,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Cloud & DevOps, Software Engineering.
 - Location - Lagos, Nigeria
 
+#### Bolaji Ayodeji
+
+- [@iambolajiayo](https://twitter.com/iambolajiayo)
+- Topics - Frontend Development, Progressive Web Apps, Performance and Optimization, Version Control, GitHub, Open Source.
+- Location - Kogi, Nigeria
+
 #### Shodipo Ayomide
 
 - [@developerayo](https://twitter.com/developerayo)
 - Topics - PHP, Javascript, Open-Source, Web Performance, Building Communities.
+- Location - Lagos, Nigeria
+
+#### Ogbonda Chiziaruhoma
+
+- [@zfinix1](https://twitter.com/zfinix1)
+- Topics - Android Development, Flutter, UI/UX Design, Java, Dart
 - Location - Lagos, Nigeria
 
 #### Okanlawon Emmanuel
@@ -690,12 +702,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@codebeast](https://twitter.com/codebeast)
 - Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
 - Location - Lagos, Nigeria
-
-#### Bolaji Ayodeji
-
-- [@iambolajiayo](https://twitter.com/iambolajiayo)
-- Topics - Frontend Development, Progressive Web Apps, Performance and Optimization, Version Control, GitHub, Open Source.
-- Location - Kogi, Nigeria
 
 ### Niger
 
