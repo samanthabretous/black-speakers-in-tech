@@ -296,7 +296,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Tariq M. King
 
 - [@tariq_king](http://twitter.com/tariq_king)
-- Topics - Angular
+- Topics - Angular, AI in testing
 - Location - Florida
 
 #### Kamilah Z Kiser
@@ -592,13 +592,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, React, Building Communities
 - Location - Lagos, Nigeria
 
-###  Shedrack Akintayo
+####  Shedrack Akintayo
 
 - [@coder_blvck](https://twitter.com/coder_blvck)
 - Topics - Reactjs, Javascript, Open Source
 - Location - Lagos, Nigeria
 
-###  Eyitayo Alimi 
+####  Eyitayo Alimi 
 
 - [@coder_blvck](https://twitter.com/coder_blvck)
 - Topics - Technology , Community, DevOps
@@ -644,7 +644,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Design in Tech
 - Location - Nigeria
 
-### Johnson Ogwuru
+#### Johnson Ogwuru
 - [@devopsjay](https://twitter.com/devopsjay)
 - Topics - Backend Development, Design Patterns and Principles(SOLID), NodeJs, Microservices, Golang
 - Location - Lagos, Nigeria
@@ -667,10 +667,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - IoT, Embedded Computing, Hyperloop
 - Location - Nigeria
 
-### Ada Nduka Oyom
+#### Ada Nduka Oyom
 
 - [@kolokodess](https://twitter.com/kolokodess)
 - Topics - Building Communities, Developer Relations, Open Source
+- Location - Lagos, Nigeria
+
+#### Nenne (Adora) Nwodo
+
+- [@theadoranwodo](https://twitter.com/theadoranwodo)
+- Topics - Kotlin, Flutter, VueJS, Laravel.
 - Location - Lagos, Nigeria
 
 #### Timothy Ovie
