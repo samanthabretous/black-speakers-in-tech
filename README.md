@@ -155,6 +155,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Pricing
 - Location - San Francisco, California
 
+#### Eboni J.D. Freeman
+
+- [@EboniJDFreeman](http://twitter.com/EboniJDFreeman)
+- Topics - Intrapreneurship Opportunity Creation, Early Career Development, Accessibility, Intersectionality
+- Location - Boulder, Colorado
+
 #### Osa Gaius
 
 - [@osagaius](http://twitter.com/osagaius)
