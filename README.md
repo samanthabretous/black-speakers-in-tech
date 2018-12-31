@@ -639,6 +639,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Laravel, JavaScript, React, React Native, Microservice, Building Communities
 - Location - Lagos, Nigeria
 
+#### Eyitemi Egbejule
+- [@eEyitemi](https://twitter.com/eEyitemi)
+- Topics - Information Security, Python, Javascript, Open Source, Devops, Building Communities.
+- Location - Lagos, Nigeria
+
 #### Neo Ighodaro
 
 - [@neoighodaro](https://twitter.com/neoighodaro)
