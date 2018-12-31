@@ -126,6 +126,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Tech Leadership, Apache
 - Location - Atlanta, Georgia
 
+#### Rhia Dixon
+
+- [@TheFakeRiRi](http://twitter.com/TheFakeRiRi)
+- Topics - AWS, Cloud Tools, DevOps, Networking, Diversity in Tech, Diversity & Inclusion, Imposter Syndrome, Coding Bootcamp, Mentorship
+- Location - Kansas City, Missouri
+
 #### Houssein Djirdeh
 
 - [@hdjirdeh](http://twitter.com/hdjirdeh)
