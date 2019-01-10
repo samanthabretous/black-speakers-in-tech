@@ -10,7 +10,7 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
 
 #### Format:
 
-Please add speakers alphabetical by last name. 
+Please add speakers alphabetical by last name.
 
 ```
 #### Full Name
@@ -48,7 +48,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@Ms_Monsura](http://twitter.com/Ms_Monsura)
 - Topics - Diversity & Inclusion, Utilizing Tech For Social Good, Transforming Social Mediums Into Safe Spaces, Technology & Art
-- Location - New York, New York 
+- Location - New York, New York
 
 #### Tae'lur Alexis
 
@@ -147,7 +147,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Chantal Emmanuel
 
 - [@chantalemmanuel](http://twitter.com/chantalemmanuel)
-- Topics - Engineering, Startup/Entrepreneurship 
+- Topics - Engineering, Startup/Entrepreneurship
 - Location - Bay Area
 
 #### Den Fran
@@ -200,8 +200,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Shawntera Hardy
 
 - [@shawnterahardy](http://linkedin.com/in/shawnterahardy)
-- Topics - Community Development and Internet of Things; Civic / Gov Tech; Equity and Technology 
-- Location - St. Paul, Minnesota 
+- Topics - Community Development and Internet of Things; Civic / Gov Tech; Equity and Technology
+- Location - St. Paul, Minnesota
 
 #### Quinnton J Harris
 
@@ -385,7 +385,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Leo Osahor
 
 - [@losahor](http://twitter.com/)
-- Topics - Startups, Leadership, Career Development. 
+- Topics - Startups, Leadership, Career Development.
 - Location – Seattle, Washington
 
 #### Jyrone Parker
@@ -519,6 +519,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
+#### Kene Udeze
+
+- [@udezekene](http://twitter.com/udezekene)
+- Topics - Collaborative UX Design, CSS, Accessibility, Inclusive Design
+- Location - Amsterdam, Netherlands
+
 #### Yannick Assogba
 
 - [@tafsiri](http://twitter.com/tafsiri)
@@ -604,7 +610,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Reactjs, Javascript, Open Source
 - Location - Lagos, Nigeria
 
-####  Eyitayo Alimi 
+####  Eyitayo Alimi
 
 - [@coder_blvck](https://twitter.com/coder_blvck)
 - Topics - Technology , Community, DevOps
@@ -748,7 +754,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@tamrefrank](https://twitter.com/tamrefrank)
 - Topics - Android, Kotlin, HTML and CSS, Building Communities
-- Location - Nairobi, Kenya 
+- Location - Nairobi, Kenya
 
 ### Zambia
 
