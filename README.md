@@ -519,12 +519,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
-#### Kene Udeze
-
-- [@udezekene](http://twitter.com/udezekene)
-- Topics - Collaborative UX Design, CSS, Accessibility, Inclusive Design
-- Location - Amsterdam, Netherlands
-
 #### Yannick Assogba
 
 - [@tafsiri](http://twitter.com/tafsiri)
@@ -578,6 +572,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@tara_ojo](http://twitter.com/tara_ojo)
 - Topics - Growing juniors
 - Location - London, England
+
+#### Kene Udeze
+
+- [@udezekene](http://twitter.com/udezekene)
+- Topics - Collaborative UX Design, CSS, Accessibility, Inclusive Design
+- Location - Amsterdam, Netherlands
 
 #### Sani Yusuf
 
