@@ -591,6 +591,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
 - Location - London, England
 
+#### Isabel Costa
+
+- [@isabelcmdcosta](http://twitter.com/isabelcmdcosta)
+- Topics - Open Source
+- Location - Lisbon, Portugal
+
 ### Nigeria
 
 #### Adewale Abati
