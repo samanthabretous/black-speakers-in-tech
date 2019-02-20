@@ -549,6 +549,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Ember, JavaScript, Web Components
 - Location - Berlin, Germany
 
+#### Meya Stephen Kenigbolo
+- [@expensivestevie](http://twitter.com/expensivestevie)
+- Topics - Javascript, Ruby, Web Components, CI/CD, Documentation
+- Location - Helsinki, Finland
+
 #### Willian Martins
 
 - [@wmsbill](http://twitter.com/wmsbill)
