@@ -447,6 +447,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Entrepreneurship, venture investment, startup ecosystem building, inclusion & racial equity
 - Location - Atlanta, Georgia
 
+#### Cassandra Salisbury
+
+- [@Cassandraoid](http://twitter.com/Cassandraoid)
+- Topics - Go, Open Source
+- Location - San Francisco, California
+
 #### Kerry Schrader
 
 - [@Mixtroz](http://twitter.com/Mixtroz)
