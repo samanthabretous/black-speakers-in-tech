@@ -50,6 +50,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Diversity & Inclusion, Utilizing Tech For Social Good, Transforming Social Mediums Into Safe Spaces, Technology & Art
 - Location - New York, New York
 
+#### Wale Akinfaderin
+
+- [@waleakinfaderin](http://twitter.com/waleakinfaderin)
+- Topics - Machine Learning, Deep Learning, Statistical Experimentation, Data Science
+- Location - North Carolina
+
 #### Tae'lur Alexis
 
 - [@TaelurAlexis](http://twitter.com/TaelurAlexis)
