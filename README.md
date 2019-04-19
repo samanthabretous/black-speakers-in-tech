@@ -29,6 +29,7 @@ Please add speakers alphabetical by last name.
   - [Kenya](#kenya)
   - [Zambia](#zambia)
   - [Canada](#canada)
+  - [Uganda](#uganda)
 ---
 
 ## Code of Conduct
@@ -822,3 +823,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@frontvu](http://twitter.com/frontvu)
 - Topics - Javascript, React Native, A11y
 - Location - Toronto, Canada
+
+#### Wampamba M. David
+
+- [@davidofug](http://twitter.com/davidofug)
+- Topics - Collaboration, WordPress, Developer careers
+- Location - Kampala, Uganda
