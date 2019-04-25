@@ -196,7 +196,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@paladique](http://twitter.com/paladique)
 - Topics - Machine Learning, C#
 - Location - Brooklyn, New York
-
 #### Arlan Hamilton
 
 - [@ArlanWasHere](http://twitter.com/ArlanWasHere)
@@ -717,6 +716,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@unicodeveloper](https://twitter.com/unicodeveloper)
 - Topics - Apollo, GraphQL, Webpack, Realtime Communication, Authentication and Security, Image and Video Performance, Building Communities
+- Location - Lagos, Nigeria
+
+#### Philip Obosi
+- [@worldclassdev](https://twitter.com/worldclassdev)
+- Topics - High Performance JavaScript, Web Performance, Web Accessibitlity, React and Redux, Frontend Engineering and Design Principles, Tech Writing
 - Location - Lagos, Nigeria
 
 #### Oluwatobi Oyinlola
