@@ -28,6 +28,7 @@ Please add speakers alphabetical by last name.
   - [Cameroon](#cameroon)
   - [Kenya](#kenya)
   - [Zambia](#zambia)
+  - [Uganda](#uganda)
   - [Canada](#canada)
 ---
 
@@ -802,6 +803,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - [@malgamves](https://twitter.com/malgamves)
 - Topics - JavaScript, Vue, GraphQL, Community, Git, Tech Entrepreneurship
 - Location - Lusaka, Zambia
+
+### Uganda
+
+#### Stephen Mugisha
+ - [@StephenMugish11](https://twitter.com/StephenMugish11)
+- Topics - Software engineering, Artificial intelligence
+- Location - Kampala, Uganda
 
 ### Canada
 
