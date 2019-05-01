@@ -377,6 +377,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Automation, iOS Development
 - Location - San Francisco, California
 
+#### WesOHaire
+
+- [@WesOHaire](https://twitter.com/WesOHaire)
+- Topics - Design, Diversity, Skills Development
+- Location - California
+
 #### Mekka Okereke
 
 - [@mekkaokereke](http://twitter.com/mekkaokereke)
