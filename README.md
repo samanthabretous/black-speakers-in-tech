@@ -30,6 +30,7 @@ Please add speakers alphabetical by last name.
   - [Zambia](#zambia)
   - [Uganda](#uganda)
   - [Canada](#canada)
+  - [Uganda](#uganda)
 ---
 
 ## Code of Conduct
@@ -836,3 +837,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@frontvu](http://twitter.com/frontvu)
 - Topics - Javascript, React Native, A11y
 - Location - Toronto, Canada
+
+### Uganda
+
+#### Edison Abahurire
+
+- [@simicode](http://twitter.com/simicode)
+- Topics - High Performance Python, Reinforcement Learning, Web Frameworks, Data Engineering, PyTorch, Open Source, Cython, Developer Communities
+- Location - Kampala, Uganda
