@@ -28,6 +28,7 @@ Please add speakers alphabetical by last name.
   - [Cameroon](#cameroon)
   - [Kenya](#kenya)
   - [Zambia](#zambia)
+  - [Uganda](#uganda)
   - [Canada](#canada)
   - [Uganda](#uganda)
 ---
@@ -376,6 +377,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@omoseisreal](http://twitter.com/omoseisreal)
 - Topics - Automation, iOS Development
 - Location - San Francisco, California
+
+#### WesOHaire
+
+- [@WesOHaire](https://twitter.com/WesOHaire)
+- Topics - Design, Diversity, Skills Development
+- Location - California
 
 #### Mekka Okereke
 
@@ -804,6 +811,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, Vue, GraphQL, Community, Git, Tech Entrepreneurship
 - Location - Lusaka, Zambia
 
+### Uganda
+
+#### Stephen Mugisha
+ - [@StephenMugish11](https://twitter.com/StephenMugish11)
+- Topics - Software engineering, Artificial intelligence
+- Location - Kampala, Uganda
+
 ### Canada
 
 #### Hassan Djirdeh
@@ -824,8 +838,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Javascript, React Native, A11y
 - Location - Toronto, Canada
 
+### Uganda
+
+#### Edison Abahurire
+
+- [@simicode](http://twitter.com/simicode)
+- Topics - High Performance Python, Reinforcement Learning, Web Frameworks, Data Engineering, PyTorch, Open Source, Cython, Developer Communities
+- Location - Kampala, Uganda
+
 #### Wampamba M. David
 
 - [@davidofug](http://twitter.com/davidofug)
 - Topics - Collaboration, WordPress, Developer careers
-- Location - Kampala, Uganda
+- Location - Uganda
