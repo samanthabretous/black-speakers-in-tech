@@ -845,3 +845,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@simicode](http://twitter.com/simicode)
 - Topics - High Performance Python, Reinforcement Learning, Web Frameworks, Data Engineering, PyTorch, Open Source, Cython, Developer Communities
 - Location - Kampala, Uganda
+
+#### Wampamba M. David
+
+- [@davidofug](http://twitter.com/davidofug)
+- Topics - Collaboration, WordPress, Developer careers
+- Location - Uganda
