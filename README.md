@@ -648,7 +648,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ####  Eyitayo Alimi
 
-- [@coder_blvck](https://twitter.com/coder_blvck)
+- [@alimieyitayo](https://twitter.com/alimieyitayo)
 - Topics - Technology , Community, DevOps
 - Location - Lagos, Nigeria
 
@@ -716,7 +716,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Michael Okoh
 
-- [@trojanokoh](http://twitter.com/trojanokoh)
+- [@ichtrojan](http://twitter.com/ichtrojan)
 - Topics - Web Development and DevOps
 - Location - Lagos, Nigeria
 
@@ -765,6 +765,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@oluwatobimayowa](http://twitter.com/oluwatobimayowa)
 - Topics - UX Design, Design-Development Handoff, Design Thinking
+- Location - Lagos, Nigeria
+
+#### Alexander Asomba
+
+- [@alexAsomba](https://twitter.com/alexasomba)
+- Topics - Tech Marketing, Design Thinking, Data Science, React, React Native, Node.js, Python, Building Communities, Learning and Development
 - Location - Lagos, Nigeria
 
 ### Niger
