@@ -770,7 +770,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Alexander Asomba
 
 - [@alexAsomba](https://twitter.com/alexasomba)
-- Topics - Tech Marketing, Accessibility, React, React Native, Node.js, Python, Building Communities
+- Topics - Accessibility, Design Thinking, Tech Marketing, React, React Native, Node.js, Python, Building Communities
 - Location - Lagos, Nigeria
 
 ### Niger
