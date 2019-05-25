@@ -81,6 +81,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - React, D3, Gatsby, Shared Components, Mentorship
 - Location - New York, New York
 
+
+#### Monica Powell
+
+- [@waterproofheart](http://twitter.com/waterproofheart)
+- Topics - React, Git/GitHub, Open Source
+- Location - New York, New York
+
+
+
 #### Tia Caldwell
 
 - [@_Tiacaldwell](http://twitter.com/_Tiacaldwell)
