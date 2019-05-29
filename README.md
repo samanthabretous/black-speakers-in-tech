@@ -21,16 +21,15 @@ Please add speakers alphabetical by last name.
 ```
 
 - [Speakers](#speakers)
-  - [United States](#united-states)
-  - [Europe](#europe)
-  - [Nigeria](#nigeria)
-  - [Niger](#niger)
   - [Cameroon](#cameroon)
-  - [Kenya](#kenya)
-  - [Zambia](#zambia)
-  - [Uganda](#uganda)
   - [Canada](#canada)
+  - [Europe](#europe)
+  - [Niger](#niger)
+  - [Nigeria](#nigeria)
+  - [Kenya](#kenya)
   - [Uganda](#uganda)
+  - [United States](#united-states)
+  - [Zambia](#zambia)
 ---
 
 ## Code of Conduct
