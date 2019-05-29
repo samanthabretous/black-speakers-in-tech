@@ -12,7 +12,7 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
 
 Please add speakers alphabetical by last name.
 
-```
+```md
 #### Full Name
 
 - [@twitterhandle](http://twitter.com/username)
