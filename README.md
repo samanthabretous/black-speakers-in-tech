@@ -82,14 +82,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - New York, New York
 
 
-#### Monica Powell
-
-- [@waterproofheart](http://twitter.com/waterproofheart)
-- Topics - React, Git/GitHub, Open Source
-- Location - New York, New York
-
-
-
 #### Tia Caldwell
 
 - [@_Tiacaldwell](http://twitter.com/_Tiacaldwell)
@@ -438,6 +430,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@MomoUhOh](http://twitter.com/MomoUhOh)
 - Topics - UX Game Design
 - Location - United States
+
+#### Monica Powell
+
+- [@waterproofheart](http://twitter.com/waterproofheart)
+- Topics - React, Git/GitHub, Open Source
+- Location - New York, New York
 
 #### Wylesha Rachell
 
