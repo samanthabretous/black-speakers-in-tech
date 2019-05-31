@@ -81,6 +81,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - React, D3, Gatsby, Shared Components, Mentorship
 - Location - New York, New York
 
+
 #### Tia Caldwell
 
 - [@_Tiacaldwell](http://twitter.com/_Tiacaldwell)
@@ -432,6 +433,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@MomoUhOh](http://twitter.com/MomoUhOh)
 - Topics - UX Game Design
 - Location - United States
+
+#### Monica Powell
+
+- [@waterproofheart](http://twitter.com/waterproofheart)
+- Topics - React, Git/GitHub, Open Source
+- Location - New York, New York
 
 #### Wylesha Rachell
 
@@ -861,14 +868,26 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - High Performance Python, Reinforcement Learning, Web Frameworks, Data Engineering, PyTorch, Open Source, Cython, Developer Communities
 - Location - Kampala, Uganda
 
+#### Laurence Bahiirwa
+
+- [@omukiguy](https://twitter.com/omukiguy)
+- Topics - WordPress, PHP, CSS, JavaScript, GraphQL, Open Source
+- Location - Kampala, Uganda
+
 #### Wampamba M. David
 
 - [@davidofug](http://twitter.com/davidofug)
 - Topics - Collaboration, WordPress, Developer careers
 - Location - Uganda
 
-#### Stephen Mugisha
+#### Mwanja Joel
 
-- [@StephenMugish11](https://twitter.com/StephenMugish11)
+- [@mrjoelmwanja](https://twitter.com/mrjoelmwanja)
+- Topics - Python, React JS, React Native, Swift, Machine Learning, Open Source
+- Location - Kampala, Uganda
+
+#### Stephen Mugisha
+ - [@StephenMugish11](https://twitter.com/StephenMugish11)
 - Topics - Software engineering, Artificial intelligence
 - Location - Kampala, Uganda
+
