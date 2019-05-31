@@ -850,13 +850,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Kampala, Uganda
 
 #### Laurence Bahiirwa
- - [@omukiguy](https://twitter.com/omukiguy)
-- Topics - WordPress, PHP, CSS, JavaScript, GraphQL, Open Source
-- Location - Kampala, Uganda
 
-#### Stephen Mugisha
- - [@StephenMugish11](https://twitter.com/StephenMugish11)
-- Topics - Software engineering, Artificial intelligence
+- [@omukiguy](https://twitter.com/omukiguy)
+- Topics - WordPress, PHP, CSS, JavaScript, GraphQL, Open Source
 - Location - Kampala, Uganda
 
 #### Wampamba M. David
@@ -864,3 +860,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@davidofug](http://twitter.com/davidofug)
 - Topics - Collaboration, WordPress, Developer careers
 - Location - Uganda
+
+#### Mwanja Joel
+
+- [@mrjoelmwanja](https://twitter.com/mrjoelmwanja)
+- Topics - Python, React JS, React Native, Swift, Machine Learning, Open Source
+- Location - Kampala, Uganda
+
+#### Stephen Mugisha
+ - [@StephenMugish11](https://twitter.com/StephenMugish11)
+- Topics - Software engineering, Artificial intelligence
+- Location - Kampala, Uganda
+
