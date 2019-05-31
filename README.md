@@ -4,15 +4,15 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
 
 ---
 
-## Please add speakers!
+## Please add speakers
 
 **The only criteria for adding speakers to this list is that your speaker is in the development/tech/web space.**
 
-#### Format:
+### Format
 
 Please add speakers alphabetical by last name.
 
-```
+```md
 #### Full Name
 
 - [@twitterhandle](http://twitter.com/username)
@@ -21,15 +21,16 @@ Please add speakers alphabetical by last name.
 ```
 
 - [Speakers](#speakers)
-  - [United States](#united-states)
-  - [Europe](#europe)
-  - [Nigeria](#nigeria)
-  - [Niger](#niger)
   - [Cameroon](#cameroon)
-  - [Kenya](#kenya)
-  - [Zambia](#zambia)
   - [Canada](#canada)
+  - [Europe](#europe)
+  - [Kenya](#kenya)
+  - [Niger](#niger)
+  - [Nigeria](#nigeria)
   - [Uganda](#uganda)
+  - [United States](#united-states)
+  - [Zambia](#zambia)
+
 ---
 
 ## Code of Conduct
@@ -106,6 +107,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Washington DC
 
 #### Troy Connor
+
 - [@troy0820](http://twitter.com/troy082)
 - Topics - NodeJS, Kubernetes, Docker, Diversity in Tech
 - Location - Hampton Roads, Virginia
@@ -162,7 +164,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@denisu81](http://twitter.com/denisu81)
 - Topics - UX design
-- Location - 	United States
+- Location - United States
 
 #### Adriel Frederick
 
@@ -198,6 +200,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@paladique](http://twitter.com/paladique)
 - Topics - Machine Learning, C#
 - Location - Brooklyn, New York
+
 #### Arlan Hamilton
 
 - [@ArlanWasHere](http://twitter.com/ArlanWasHere)
@@ -302,7 +305,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Brandon Kearns
 
-- [@brandon_kearns ](http://twitter.com/brandon_kearns )
+- [@brandon_kearns](http://twitter.com/brandon_kearns)
 - Topics - Career Development
 - Location - Atlanta, Georgia
 
@@ -314,7 +317,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Kamilah Z Kiser
 
-- [@KamilahZKiser ](http://twitter.com/KamilahZKiser)
+- [@KamilahZKiser](http://twitter.com/KamilahZKiser)
 - Topics - VR Experience Design
 - Location - Atlanta, Georgia
 
@@ -402,6 +405,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location – Seattle, Washington
 
 #### Jyrone Parker
+
 - [@mastashake08](https://twitter.com/mastashake08)
 - Topics - Progressive web apps, Laravel, Vue, React and Tech Entrepreneurship
 - Location - Louisville, Kentucky
@@ -575,6 +579,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Berlin, Germany
 
 #### Meya Stephen Kenigbolo
+
 - [@expensivestevie](http://twitter.com/expensivestevie)
 - Topics - Javascript, Ruby, Web Components, CI/CD, Documentation
 - Location - Helsinki, Finland
@@ -642,19 +647,20 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 
 #### Ademola Adegbuyi
+
 - [@_ooade](https://twitter.com/_ooade)
 - Topics - JavaScript, React, Building Communities
 - Location - Lagos, Nigeria
 
-####  Shedrack Akintayo
+#### Shedrack Akintayo
 
 - [@coder_blvck](https://twitter.com/coder_blvck)
 - Topics - Reactjs, Javascript, Open Source
 - Location - Lagos, Nigeria
 
-####  Eyitayo Alimi
+#### Eyitayo Alimi
 
-- [@coder_blvck](https://twitter.com/coder_blvck)
+- [@alimieyitayo](https://twitter.com/alimieyitayo)
 - Topics - Technology , Community, DevOps
 - Location - Lagos, Nigeria
 
@@ -683,11 +689,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 
 #### Okanlawon Emmanuel
+
 - [@solarsoft0](https://twitter.com/solarsoft0)
 - Topics - Laravel, JavaScript, React, React Native, Microservice, Building Communities
 - Location - Lagos, Nigeria
 
 #### Eyitemi Egbejule
+
 - [@eEyitemi](https://twitter.com/eEyitemi)
 - Topics - Information Security, Python, Javascript, Open Source, Devops, Building Communities.
 - Location - Lagos, Nigeria
@@ -699,6 +707,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 
 #### Ogbunude Lemuel
+
 - [@lemuelOgbunude](https://twitter.com/lemuelOgbunude)
 - Topics - Android Development, Java, Kotlin, Dart
 - Location - Abuja, Nigeria
@@ -707,7 +716,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@Obinnaspeaks](https://twitter.com/Obinnaspeaks)
 - Topics - Documentation, Github, JavaScript, Community Advocate, Open Source
-- Location - Enugu, Nigeria   
+- Location - Enugu, Nigeria
 
 #### Kutaje J. Oghenevwaire
 
@@ -716,13 +725,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Nigeria
 
 #### Johnson Ogwuru
+
 - [@devopsjay](https://twitter.com/devopsjay)
 - Topics - Backend Development, Design Patterns and Principles(SOLID), NodeJs, Microservices, Golang
 - Location - Lagos, Nigeria
 
 #### Michael Okoh
 
-- [@trojanokoh](http://twitter.com/trojanokoh)
+- [@ichtrojan](http://twitter.com/ichtrojan)
 - Topics - Web Development and DevOps
 - Location - Lagos, Nigeria
 
@@ -733,6 +743,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 
 #### Philip Obosi
+
 - [@worldclassdev](https://twitter.com/worldclassdev)
 - Topics - High Performance JavaScript, Web Performance, Web Accessibitlity, React and Redux, Frontend Engineering and Design Principles, Tech Writing
 - Location - Lagos, Nigeria
@@ -771,6 +782,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@oluwatobimayowa](http://twitter.com/oluwatobimayowa)
 - Topics - UX Design, Design-Development Handoff, Design Thinking
+- Location - Lagos, Nigeria
+
+#### Alexander Asomba
+
+- [@alexAsomba](https://twitter.com/alexasomba)
+- Topics - Accessibility, Design Thinking, Tech Marketing, React, React Native, Node.js, Python, Building Communities
 - Location - Lagos, Nigeria
 
 ### Niger
@@ -812,12 +829,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Zambia
 
 #### Mukuma Musenge
+
 - [@sour_bones](http://twitter.com/sour_bones)
 - Topics - Communitiy Advocacy, Workshops, Laravel, Lifecycle Development
 - Location - Lusaka, Zambia
 
 #### Daniel Madalitso Phiri
- - [@malgamves](https://twitter.com/malgamves)
+
+- [@malgamves](https://twitter.com/malgamves)
 - Topics - JavaScript, Vue, GraphQL, Community, Git, Tech Entrepreneurship
 - Location - Lusaka, Zambia
 
