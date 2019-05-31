@@ -81,11 +81,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - React, D3, Gatsby, Shared Components, Mentorship
 - Location - New York, New York
 
-#### Ida Byrd-Hill
-
-- [@idabyrdhill](https://www.linkedin.com/in/idabyrdhill)
-- Topics - Automation, Workforce Development, Future tech Megatrends, Tech Diversity, Invention, Entrepreneurship
-- Location - Detroit MI 
 
 #### Tia Caldwell
 
@@ -435,6 +430,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@MomoUhOh](http://twitter.com/MomoUhOh)
 - Topics - UX Game Design
 - Location - United States
+
+#### Monica Powell
+
+- [@waterproofheart](http://twitter.com/waterproofheart)
+- Topics - React, Git/GitHub, Open Source
+- Location - New York, New York
 
 #### Wylesha Rachell
 
