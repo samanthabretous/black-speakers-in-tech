@@ -81,6 +81,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - React, D3, Gatsby, Shared Components, Mentorship
 - Location - New York, New York
 
+#### Ida Byrd-Hill
+
+- [@idabyrdhill](https://www.linkedin.com/in/idabyrdhill)
+- Topics - Automation, Workforce Development, Future tech Megatrends, Tech Diversity, Invention, Entrepreneurship
+- Location - Detroit MI 
+
 #### Tia Caldwell
 
 - [@_Tiacaldwell](http://twitter.com/_Tiacaldwell)
