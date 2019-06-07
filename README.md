@@ -814,6 +814,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android, Kotlin, Golang
 - Location - Nairobi, Kenya
 
+#### Marvin Collins Hosea
+
+- [@marvin_hosea](https://twitter.com/marvin_hosea)
+- Topics - Golang, Docker, ServerAdmin, Laravel - PHP
+- Location - Nairobi, Kenya
+
 #### Eton Otieno
 
 - [@eton_otieno](http://twitter.com/eton_otieno)
@@ -825,6 +831,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@tamrefrank](https://twitter.com/tamrefrank)
 - Topics - Android, Kotlin, HTML and CSS, Building Communities
 - Location - Nairobi, Kenya
+
 
 ### Zambia
 
