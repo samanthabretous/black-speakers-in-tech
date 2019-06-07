@@ -39,6 +39,344 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ## Speakers
 
+### Cameroon
+
+#### Farouk Sabiou
+
+- [@sabiiou](https://twitter.com/sabiiou)
+- Topics - Abdroid, java, Kotlin, Firebase
+- Location - Douala, Cameroon
+
+### Canada
+
+#### Hassan Djirdeh
+
+- [@djirdehh](http://twitter.com/djirdehh)
+- Topics - Vue.js, Workshops
+- Location - Toronto, Canada
+
+#### Henri Helvetica
+
+- [@HenriHelvetica](http://twitter.com/HenriHelvetica)
+- Topics - Web Performance & Technologies
+- Location - Toronto, Canada
+
+#### Jason Matthews
+
+- [@frontvu](http://twitter.com/frontvu)
+- Topics - Javascript, React Native, A11y
+- Location - Toronto, Canada
+
+### Europe
+
+#### Yannick Assogba
+
+- [@tafsiri](http://twitter.com/tafsiri)
+- Topics - TensorFlow.js, JavaScript
+- Location - Cambridge, England
+
+#### Gavin Dennis
+
+- [@HackingGavin](http://twitter.com/HackingGavin)
+- Topics - Offensive Security, Security Awareness, Security Operations
+- Location - Europe
+
+#### Segun Famisa
+
+- [@segunfamisa](https://twitter.com/segunfamisa)
+- Topics - Android, Kotlin, Android best practices
+- Location - Düsseldorf, Germany
+
+#### Alex Fefegha
+
+- [@fxfegha](http://twitter.com/fxfegha)
+- Topics - Digital Ethics
+- Location - London, England
+
+#### Jessica Jordan
+
+- [@jjordan_dev](http://twitter.com/jjordan_dev)
+- Topics - Ember, JavaScript, Web Components
+- Location - Berlin, Germany
+
+#### Meya Stephen Kenigbolo
+
+- [@expensivestevie](http://twitter.com/expensivestevie)
+- Topics - Javascript, Ruby, Web Components, CI/CD, Documentation
+- Location - Helsinki, Finland
+
+#### Willian Martins
+
+- [@wmsbill](http://twitter.com/wmsbill)
+- Topics - JavaScript
+- Location - Berlin, Germany
+
+#### Olu Niyi-Awosusi
+
+- [@oluoluoxenfree](http://twitter.com/oluoluoxenfree)
+- Topics - Git, Github
+- Location - London, England
+
+#### Tolúlọpẹ́ Ògúnrẹ̀mí
+
+- [@tolulopero](http://twitter.com/tolulopero)
+- Topics - Game Developement
+- Location - London, England
+
+#### Tara Ojo
+
+- [@tara_ojo](http://twitter.com/tara_ojo)
+- Topics - Growing juniors
+- Location - London, England
+
+#### Bybreen Samuels
+
+- [@tara_ojo](http://twitter.com/BybreenSamuels)
+- Topics - Career transition for older women into tech, Translating A.I. for the ordinary lay person, Recruitment process
+- Location - London, England
+
+#### Kene Udeze
+
+- [@udezekene](http://twitter.com/udezekene)
+- Topics - Collaborative UX Design, CSS, Accessibility, Inclusive Design
+- Location - Amsterdam, Netherlands
+
+#### Sani Yusuf
+
+- [@saniyusuf](https://twitter.com/saniyusuf)
+- Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
+- Location - London, England
+
+#### Isabel Costa
+
+- [@isabelcmdcosta](http://twitter.com/isabelcmdcosta)
+- Topics - Open Source
+- Location - Lisbon, Portugal
+
+### Kenya
+
+#### Juma Allan
+
+- [@_ jumaallan](https://twitter.com/_jumaallan)
+- Topics - Android, Kotlin, Golang
+- Location - Nairobi, Kenya
+
+#### Marvin Collins Hosea
+
+- [@marvin_hosea](https://twitter.com/marvin_hosea)
+- Topics - Golang, Docker, ServerAdmin, Laravel - PHP
+- Location - Nairobi, Kenya
+
+#### Eton Otieno
+
+- [@eton_otieno](http://twitter.com/eton_otieno)
+- Topics - Android, Kotlin
+- Location - Nairobi, Kenya
+
+#### Frank Tamre
+
+- [@tamrefrank](https://twitter.com/tamrefrank)
+- Topics - Android, Kotlin, HTML and CSS, Building Communities
+- Location - Nairobi, Kenya
+
+### Niger
+
+#### Daouada Hamadou
+
+- [@hamadoudao](https://twitter.com/hamadoudao)
+- Topics - Xamarin, Android, Google cloud
+- Location - Niamey, Niger
+
+### Nigeria
+
+#### Adewale Abati
+
+- [@ace_kyd](https://twitter.com/ace_kyd)
+- Topics - PHP, Laravel, Javascript, Open-Source.
+- Location - Lagos, Nigeria
+
+#### Ire Aderinokun
+
+- [@ireaderinokun](https://twitter.com/ireaderinokun)
+- Topics - Frontend Development, UI Design, JavaScript
+- Location - Lagos, Nigeria
+
+#### Ademola Adegbuyi
+
+- [@_ooade](https://twitter.com/_ooade)
+- Topics - JavaScript, React, Building Communities
+- Location - Lagos, Nigeria
+
+#### Shedrack Akintayo
+
+- [@coder_blvck](https://twitter.com/coder_blvck)
+- Topics - Reactjs, Javascript, Open Source
+- Location - Lagos, Nigeria
+
+#### Eyitayo Alimi
+
+- [@alimieyitayo](https://twitter.com/alimieyitayo)
+- Topics - Technology , Community, DevOps
+- Location - Lagos, Nigeria
+
+#### Wale Ayandiran
+
+- [@walecloud](https://twitter.com/walecloud)
+- Topics - Cloud & DevOps, Software Engineering.
+- Location - Lagos, Nigeria
+
+#### Bolaji Ayodeji
+
+- [@iambolajiayo](https://twitter.com/iambolajiayo)
+- Topics - Frontend Development, Progressive Web Apps, Performance and Optimization, Version Control, GitHub, Open Source.
+- Location - Kogi, Nigeria
+
+#### Shodipo Ayomide
+
+- [@developerayo](https://twitter.com/developerayo)
+- Topics - PHP, Javascript, Open-Source, Web Performance, Building Communities.
+- Location - Lagos, Nigeria
+
+#### Ogbonda Chiziaruhoma
+
+- [@zfinix1](https://twitter.com/zfinix1)
+- Topics - Android Development, Flutter, UI/UX Design, Java, Dart
+- Location - Lagos, Nigeria
+
+#### Okanlawon Emmanuel
+
+- [@solarsoft0](https://twitter.com/solarsoft0)
+- Topics - Laravel, JavaScript, React, React Native, Microservice, Building Communities
+- Location - Lagos, Nigeria
+
+#### Eyitemi Egbejule
+
+- [@eEyitemi](https://twitter.com/eEyitemi)
+- Topics - Information Security, Python, Javascript, Open Source, Devops, Building Communities.
+- Location - Lagos, Nigeria
+
+#### Neo Ighodaro
+
+- [@neoighodaro](https://twitter.com/neoighodaro)
+- Topics - PHP, Laravel, Javascript.
+- Location - Lagos, Nigeria
+
+#### Ogbunude Lemuel
+
+- [@lemuelOgbunude](https://twitter.com/lemuelOgbunude)
+- Topics - Android Development, Java, Kotlin, Dart
+- Location - Abuja, Nigeria
+
+#### Ekwuno Obinna
+
+- [@Obinnaspeaks](https://twitter.com/Obinnaspeaks)
+- Topics - Documentation, Github, JavaScript, Community Advocate, Open Source
+- Location - Enugu, Nigeria
+
+#### Kutaje J. Oghenevwaire
+
+- [@Kutajbaba](http://twitter.com/Kutajbaba)
+- Topics - Design in Tech
+- Location - Nigeria
+
+#### Johnson Ogwuru
+
+- [@devopsjay](https://twitter.com/devopsjay)
+- Topics - Backend Development, Design Patterns and Principles(SOLID), NodeJs, Microservices, Golang
+- Location - Lagos, Nigeria
+
+#### Michael Okoh
+
+- [@ichtrojan](http://twitter.com/ichtrojan)
+- Topics - Web Development and DevOps
+- Location - Lagos, Nigeria
+
+#### Prosper Otemuyiwa
+
+- [@unicodeveloper](https://twitter.com/unicodeveloper)
+- Topics - Apollo, GraphQL, Webpack, Realtime Communication, Authentication and Security, Image and Video Performance, Building Communities
+- Location - Lagos, Nigeria
+
+#### Philip Obosi
+
+- [@worldclassdev](https://twitter.com/worldclassdev)
+- Topics - High Performance JavaScript, Web Performance, Web Accessibitlity, React and Redux, Frontend Engineering and Design Principles, Tech Writing
+- Location - Lagos, Nigeria
+
+#### Oluwatobi Oyinlola
+
+- [@TobiOyinlola](https://twitter.com/TobiOyinlola)
+- Topics - IoT, Embedded Computing, Hyperloop
+- Location - Nigeria
+
+#### Ada Nduka Oyom
+
+- [@kolokodess](https://twitter.com/kolokodess)
+- Topics - Building Communities, Developer Relations, Open Source
+- Location - Lagos, Nigeria
+
+#### Nenne (Adora) Nwodo
+
+- [@theadoranwodo](https://twitter.com/theadoranwodo)
+- Topics - Kotlin, Flutter, VueJS, Laravel.
+- Location - Lagos, Nigeria
+
+#### Timothy Ovie
+
+- [@timothy_ovie](http://twitter.com/timothy_ovie)
+- Topics - Building Communities, Technical writing and Documentation, Github, Technology
+- Location - Warri, Nigeria
+
+#### Christian Nwamba
+
+- [@codebeast](https://twitter.com/codebeast)
+- Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
+- Location - Lagos, Nigeria
+
+#### Oluwatoi Akindunjoye
+
+- [@oluwatobimayowa](http://twitter.com/oluwatobimayowa)
+- Topics - UX Design, Design-Development Handoff, Design Thinking
+- Location - Lagos, Nigeria
+
+#### Alexander Asomba
+
+- [@alexAsomba](https://twitter.com/alexasomba)
+- Topics - Accessibility, Design Thinking, Tech Marketing, React, React Native, Node.js, Python, Building Communities
+- Location - Lagos, Nigeria
+
+### Uganda
+
+#### Edison Abahurire
+
+- [@simicode](http://twitter.com/simicode)
+- Topics - High Performance Python, Reinforcement Learning, Web Frameworks, Data Engineering, PyTorch, Open Source, Cython, Developer Communities
+- Location - Kampala, Uganda
+
+#### Laurence Bahiirwa
+
+- [@omukiguy](https://twitter.com/omukiguy)
+- Topics - WordPress, PHP, CSS, JavaScript, GraphQL, Open Source
+- Location - Kampala, Uganda
+
+#### Wampamba M. David
+
+- [@davidofug](http://twitter.com/davidofug)
+- Topics - Collaboration, WordPress, Developer careers
+- Location - Uganda
+
+#### Mwanja Joel
+
+- [@mrjoelmwanja](https://twitter.com/mrjoelmwanja)
+- Topics - Python, React JS, React Native, Swift, Machine Learning, Open Source
+- Location - Kampala, Uganda
+
+#### Stephen Mugisha
+
+- [@StephenMugish11](https://twitter.com/StephenMugish11)
+- Topics - Software engineering, Artificial intelligence
+- Location - Kampala, Uganda
+
 ### United States
 
 #### Salih Abdul-Karim
@@ -80,7 +418,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@samanthabretous](http://twitter.com/samanthabretous)
 - Topics - React, D3, Gatsby, Shared Components, Mentorship
 - Location - New York, New York
-
 
 #### Tia Caldwell
 
@@ -546,293 +883,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - AWS, Facial recognition, JavaScript
 - Location - Atlanta, Georgia
 
-### Europe
-
-#### Yannick Assogba
-
-- [@tafsiri](http://twitter.com/tafsiri)
-- Topics - TensorFlow.js, JavaScript
-- Location - Cambridge, England
-
-#### Gavin Dennis
-
-- [@HackingGavin](http://twitter.com/HackingGavin)
-- Topics - Offensive Security, Security Awareness, Security Operations
-- Location - Europe
-
-#### Segun Famisa
-
-- [@segunfamisa](https://twitter.com/segunfamisa)
-- Topics - Android, Kotlin, Android best practices
-- Location - Düsseldorf, Germany
-
-#### Alex Fefegha
-
-- [@fxfegha](http://twitter.com/fxfegha)
-- Topics - Digital Ethics
-- Location - London, England
-
-#### Jessica Jordan
-
-- [@jjordan_dev](http://twitter.com/jjordan_dev)
-- Topics - Ember, JavaScript, Web Components
-- Location - Berlin, Germany
-
-#### Meya Stephen Kenigbolo
-
-- [@expensivestevie](http://twitter.com/expensivestevie)
-- Topics - Javascript, Ruby, Web Components, CI/CD, Documentation
-- Location - Helsinki, Finland
-
-#### Willian Martins
-
-- [@wmsbill](http://twitter.com/wmsbill)
-- Topics - JavaScript
-- Location - Berlin, Germany
-
-#### Olu Niyi-Awosusi
-
-- [@oluoluoxenfree](http://twitter.com/oluoluoxenfree)
-- Topics - Git, Github
-- Location - London, England
-
-#### Tolúlọpẹ́ Ògúnrẹ̀mí
-
-- [@tolulopero](http://twitter.com/tolulopero)
-- Topics - Game Developement
-- Location - London, England
-
-#### Tara Ojo
-
-- [@tara_ojo](http://twitter.com/tara_ojo)
-- Topics - Growing juniors
-- Location - London, England
-
-#### Bybreen Samuels
-
-- [@tara_ojo](http://twitter.com/BybreenSamuels)
-- Topics - Career transition for older women into tech, Translating A.I. for the ordinary lay person, Recruitment process
-- Location - London, England
-
-#### Kene Udeze
-
-- [@udezekene](http://twitter.com/udezekene)
-- Topics - Collaborative UX Design, CSS, Accessibility, Inclusive Design
-- Location - Amsterdam, Netherlands
-
-#### Sani Yusuf
-
-- [@saniyusuf](https://twitter.com/saniyusuf)
-- Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
-- Location - London, England
-
-#### Isabel Costa
-
-- [@isabelcmdcosta](http://twitter.com/isabelcmdcosta)
-- Topics - Open Source
-- Location - Lisbon, Portugal
-
-### Nigeria
-
-#### Adewale Abati
-
-- [@ace_kyd](https://twitter.com/ace_kyd)
-- Topics - PHP, Laravel, Javascript, Open-Source.
-- Location - Lagos, Nigeria
-
-#### Ire Aderinokun
-
-- [@ireaderinokun](https://twitter.com/ireaderinokun)
-- Topics - Frontend Development, UI Design, JavaScript
-- Location - Lagos, Nigeria
-
-#### Ademola Adegbuyi
-
-- [@_ooade](https://twitter.com/_ooade)
-- Topics - JavaScript, React, Building Communities
-- Location - Lagos, Nigeria
-
-#### Shedrack Akintayo
-
-- [@coder_blvck](https://twitter.com/coder_blvck)
-- Topics - Reactjs, Javascript, Open Source
-- Location - Lagos, Nigeria
-
-#### Eyitayo Alimi
-
-- [@alimieyitayo](https://twitter.com/alimieyitayo)
-- Topics - Technology , Community, DevOps
-- Location - Lagos, Nigeria
-
-#### Wale Ayandiran
-
-- [@walecloud](https://twitter.com/walecloud)
-- Topics - Cloud & DevOps, Software Engineering.
-- Location - Lagos, Nigeria
-
-#### Bolaji Ayodeji
-
-- [@iambolajiayo](https://twitter.com/iambolajiayo)
-- Topics - Frontend Development, Progressive Web Apps, Performance and Optimization, Version Control, GitHub, Open Source.
-- Location - Kogi, Nigeria
-
-#### Shodipo Ayomide
-
-- [@developerayo](https://twitter.com/developerayo)
-- Topics - PHP, Javascript, Open-Source, Web Performance, Building Communities.
-- Location - Lagos, Nigeria
-
-#### Ogbonda Chiziaruhoma
-
-- [@zfinix1](https://twitter.com/zfinix1)
-- Topics - Android Development, Flutter, UI/UX Design, Java, Dart
-- Location - Lagos, Nigeria
-
-#### Okanlawon Emmanuel
-
-- [@solarsoft0](https://twitter.com/solarsoft0)
-- Topics - Laravel, JavaScript, React, React Native, Microservice, Building Communities
-- Location - Lagos, Nigeria
-
-#### Eyitemi Egbejule
-
-- [@eEyitemi](https://twitter.com/eEyitemi)
-- Topics - Information Security, Python, Javascript, Open Source, Devops, Building Communities.
-- Location - Lagos, Nigeria
-
-#### Neo Ighodaro
-
-- [@neoighodaro](https://twitter.com/neoighodaro)
-- Topics - PHP, Laravel, Javascript.
-- Location - Lagos, Nigeria
-
-#### Ogbunude Lemuel
-
-- [@lemuelOgbunude](https://twitter.com/lemuelOgbunude)
-- Topics - Android Development, Java, Kotlin, Dart
-- Location - Abuja, Nigeria
-
-#### Ekwuno Obinna
-
-- [@Obinnaspeaks](https://twitter.com/Obinnaspeaks)
-- Topics - Documentation, Github, JavaScript, Community Advocate, Open Source
-- Location - Enugu, Nigeria
-
-#### Kutaje J. Oghenevwaire
-
-- [@Kutajbaba](http://twitter.com/Kutajbaba)
-- Topics - Design in Tech
-- Location - Nigeria
-
-#### Johnson Ogwuru
-
-- [@devopsjay](https://twitter.com/devopsjay)
-- Topics - Backend Development, Design Patterns and Principles(SOLID), NodeJs, Microservices, Golang
-- Location - Lagos, Nigeria
-
-#### Michael Okoh
-
-- [@ichtrojan](http://twitter.com/ichtrojan)
-- Topics - Web Development and DevOps
-- Location - Lagos, Nigeria
-
-#### Prosper Otemuyiwa
-
-- [@unicodeveloper](https://twitter.com/unicodeveloper)
-- Topics - Apollo, GraphQL, Webpack, Realtime Communication, Authentication and Security, Image and Video Performance, Building Communities
-- Location - Lagos, Nigeria
-
-#### Philip Obosi
-
-- [@worldclassdev](https://twitter.com/worldclassdev)
-- Topics - High Performance JavaScript, Web Performance, Web Accessibitlity, React and Redux, Frontend Engineering and Design Principles, Tech Writing
-- Location - Lagos, Nigeria
-
-#### Oluwatobi Oyinlola
-
-- [@TobiOyinlola](https://twitter.com/TobiOyinlola)
-- Topics - IoT, Embedded Computing, Hyperloop
-- Location - Nigeria
-
-#### Ada Nduka Oyom
-
-- [@kolokodess](https://twitter.com/kolokodess)
-- Topics - Building Communities, Developer Relations, Open Source
-- Location - Lagos, Nigeria
-
-#### Nenne (Adora) Nwodo
-
-- [@theadoranwodo](https://twitter.com/theadoranwodo)
-- Topics - Kotlin, Flutter, VueJS, Laravel.
-- Location - Lagos, Nigeria
-
-#### Timothy Ovie
-
-- [@timothy_ovie](http://twitter.com/timothy_ovie)
-- Topics - Building Communities, Technical writing and Documentation, Github, Technology
-- Location - Warri, Nigeria
-
-#### Christian Nwamba
-
-- [@codebeast](https://twitter.com/codebeast)
-- Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
-- Location - Lagos, Nigeria
-
-#### Oluwatoi Akindunjoye
-
-- [@oluwatobimayowa](http://twitter.com/oluwatobimayowa)
-- Topics - UX Design, Design-Development Handoff, Design Thinking
-- Location - Lagos, Nigeria
-
-#### Alexander Asomba
-
-- [@alexAsomba](https://twitter.com/alexasomba)
-- Topics - Accessibility, Design Thinking, Tech Marketing, React, React Native, Node.js, Python, Building Communities
-- Location - Lagos, Nigeria
-
-### Niger
-
-#### Daouada Hamadou
-
-- [@hamadoudao](https://twitter.com/hamadoudao)
-- Topics - Xamarin, Android, Google cloud
-- Location - Niamey, Niger
-
-### Cameroon
-
-#### Farouk Sabiou
-
-- [@sabiiou](https://twitter.com/sabiiou)
-- Topics - Abdroid, java, Kotlin, Firebase
-- Location - Douala, Cameroon
-
-### Kenya
-
-#### Juma Allan
-
-- [@_ jumaallan](https://twitter.com/_jumaallan)
-- Topics - Android, Kotlin, Golang
-- Location - Nairobi, Kenya
-
-#### Marvin Collins Hosea
-
-- [@marvin_hosea](https://twitter.com/marvin_hosea)
-- Topics - Golang, Docker, ServerAdmin, Laravel - PHP
-- Location - Nairobi, Kenya
-
-#### Eton Otieno
-
-- [@eton_otieno](http://twitter.com/eton_otieno)
-- Topics - Android, Kotlin
-- Location - Nairobi, Kenya
-
-#### Frank Tamre
-
-- [@tamrefrank](https://twitter.com/tamrefrank)
-- Topics - Android, Kotlin, HTML and CSS, Building Communities
-- Location - Nairobi, Kenya
-
-
 ### Zambia
 
 #### Mukuma Musenge
@@ -846,55 +896,3 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@malgamves](https://twitter.com/malgamves)
 - Topics - JavaScript, Vue, GraphQL, Community, Git, Tech Entrepreneurship
 - Location - Lusaka, Zambia
-
-### Canada
-
-#### Hassan Djirdeh
-
-- [@djirdehh](http://twitter.com/djirdehh)
-- Topics - Vue.js, Workshops
-- Location - Toronto, Canada
-
-#### Henri Helvetica
-
-- [@HenriHelvetica](http://twitter.com/HenriHelvetica)
-- Topics - Web Performance & Technologies
-- Location - Toronto, Canada
-
-#### Jason Matthews
-
-- [@frontvu](http://twitter.com/frontvu)
-- Topics - Javascript, React Native, A11y
-- Location - Toronto, Canada
-
-### Uganda
-
-#### Edison Abahurire
-
-- [@simicode](http://twitter.com/simicode)
-- Topics - High Performance Python, Reinforcement Learning, Web Frameworks, Data Engineering, PyTorch, Open Source, Cython, Developer Communities
-- Location - Kampala, Uganda
-
-#### Laurence Bahiirwa
-
-- [@omukiguy](https://twitter.com/omukiguy)
-- Topics - WordPress, PHP, CSS, JavaScript, GraphQL, Open Source
-- Location - Kampala, Uganda
-
-#### Wampamba M. David
-
-- [@davidofug](http://twitter.com/davidofug)
-- Topics - Collaboration, WordPress, Developer careers
-- Location - Uganda
-
-#### Mwanja Joel
-
-- [@mrjoelmwanja](https://twitter.com/mrjoelmwanja)
-- Topics - Python, React JS, React Native, Swift, Machine Learning, Open Source
-- Location - Kampala, Uganda
-
-#### Stephen Mugisha
- - [@StephenMugish11](https://twitter.com/StephenMugish11)
-- Topics - Software engineering, Artificial intelligence
-- Location - Kampala, Uganda
-
