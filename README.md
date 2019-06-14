@@ -632,6 +632,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Open Source
 - Location - Lisbon, Portugal
 
+#### Chidinma Kalu
+- [@chidinmako](http://twitter.com/chidinmako)
+- Topics - Javascript, Typescript, Python, Machine Learning
+- Location - Amsterdam, Netherlands
+
 ### Nigeria
 
 #### Adewale Abati
