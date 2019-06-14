@@ -610,7 +610,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Bybreen Samuels
 
-- [@tara_ojo](http://twitter.com/BybreenSamuels)
+- [@bybreensamuels](http://twitter.com/BybreenSamuels)
 - Topics - Career transition for older women into tech, Translating A.I. for the ordinary lay person, Recruitment process
 - Location - London, England
 
