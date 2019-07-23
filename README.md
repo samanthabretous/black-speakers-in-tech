@@ -870,6 +870,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Front-end Web
 - Location - Memphis, Tennessee
 
+#### Brittany Walker
+
+- [@musicalwebdev](http://twitter.com/musicalwebdev)
+- Topics - Web Development, HTML, CSS, JavaScript, Vue.js, Open Source, Side Projects, Transitioning Careers into Tech
+- Location - Washington, DC
+
 #### Tara Walker
 
 - [@taraw](http://twitter.com/taraw)
