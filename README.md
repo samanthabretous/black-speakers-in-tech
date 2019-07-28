@@ -49,6 +49,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Canada
 
+#### Tomiwa Ademidun
+
+- [@tomiwa1a](http://twitter.com/tomiwa1a)
+- Topics - Anuglar, React, Python, Django, Progressive Web Apps, Devops, Entrepreneurship
+- Location - Toronto, Canada
+
 #### Hassan Djirdeh
 
 - [@djirdehh](http://twitter.com/djirdehh)
