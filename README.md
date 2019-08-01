@@ -190,6 +190,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android, Kotlin, HTML and CSS, Building Communities
 - Location - Nairobi, Kenya
 
+#### Harun Wangereka
+
+- [@wangerekaharun](https://twitter.com/wangerekaharun)
+- Topics - Android, Kotlin
+- Location - Nairobi, Kenya
+
 ### Niger
 
 #### Daouada Hamadou
@@ -435,6 +441,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@_Tiacaldwell](http://twitter.com/_Tiacaldwell)
 - Topics - Leadership
 - Location - San Francisco, California
+
+### Kara Carrell
+
+-  [@KaraAJC](https://twitter.com/KaraAJC)
+- Ruby/Rails, Pairing, emoji, creative learning
+- Chicago, IL
 
 #### Nyah Check
 
