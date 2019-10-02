@@ -883,6 +883,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - VR, Product
 - Location - San Francisco, California
 
+#### Tiffany Thompson
+
+- [@tiffalwaysfly](http://twitter.com/tiffalwaysfly)
+- Topics - Job search for Junior Devs, Coding Bootcamp, My Tech Journey
+- Location - Dallas, Texas
+
 #### Andrew Usher
 
 - Topics - Front-end Web
