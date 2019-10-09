@@ -520,6 +520,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Engineering, Startup/Entrepreneurship
 - Location - Bay Area
 
+#### Wesley Faulkner
+- [@wesley83](https://twitter.com/wesley83)
+- Topics - MongoDB, Soft Skills
+- Location - Austin, TX, USA
+
 #### Den Fran
 
 - [@denisu81](http://twitter.com/denisu81)
