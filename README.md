@@ -444,9 +444,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Kara Carrell
 
--  [@KaraAJC](https://twitter.com/KaraAJC)
-- Ruby/Rails, Pairing, emoji, creative learning
-- Chicago, IL
+- [@KaraAJC](https://twitter.com/KaraAJC)
+- Topics - Ruby/Rails, Pairing, emoji, creative learning
+- Location - Chicago, IL
 
 #### Nyah Check
 
