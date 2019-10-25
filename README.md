@@ -572,6 +572,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Venture capital funding
 - Location - West Hollywood, California
 
+#### Mo Hampton
+
+- [@MoxieHampton](http://twitter.com/MoxieHampton)
+- Topics - Breaking Into Tech, Career Development, JavaScript, Microsoft SharePoint, Front End Development
+- Location - Raleigh, North Carolina
+
 #### Shawntera Hardy
 
 - [@shawnterahardy](http://linkedin.com/in/shawnterahardy)
