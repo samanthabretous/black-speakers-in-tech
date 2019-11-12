@@ -674,6 +674,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Career Development
 - Location - Atlanta, Georgia
 
+#### Nici Kelly
+
+- [@blackgurltech](http://twitter.com/blackgurltech)
+- Topics - Career Development, Skills Development, HTML, CSS, Javascript, React, Angular, UX/UI, Team Leadership, Freelancing, Entrepreneurship, Personal Branding, Developer Soft Skills
+- Location - Atlanta, Georgia
+
 #### Tariq M. King
 
 - [@tariq_king](http://twitter.com/tariq_king)
