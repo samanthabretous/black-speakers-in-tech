@@ -266,6 +266,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Laravel, JavaScript, React, React Native, Microservice, Building Communities
 - Location - Lagos, Nigeria
 
+#### Anayo Oleru
+
+- [@AnayoOleru](https://twitter.com/AnayoOleru)
+- Topics - React-Native, React, Redux, JavaScript, Google-Dialogflow, GithHub, UI/UX Design, Open Source, Building Communities
+- Location - Lagos, Nigeria
+
 #### Eyitemi Egbejule
 
 - [@eEyitemi](https://twitter.com/eEyitemi)
