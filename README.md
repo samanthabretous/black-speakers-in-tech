@@ -105,7 +105,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Ember, JavaScript, Web Components
 - Location - Berlin, Germany
 
+#### Tana Joseph
+
+- [@TanaDJoseph](http://twitter.com/TanaDJoseph)
+- Topics - Big data, STEM careers and education, Diversity and Inclusion in STEM, STEM public engagement and outreach
+- Location - Manchester, UK
+
 #### Chidinma Kalu
+
 - [@chidinmako](http://twitter.com/chidinmako)
 - Topics - Javascript, Typescript, Python, Machine Learning
 - Location - Amsterdam, Netherlands
