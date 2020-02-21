@@ -645,6 +645,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript
 - Location - Boston, Massa
 
+#### Ben Ilegbodu
+
+- [@benmvp](http://twitter.com/benmvp)
+- Topics - UI Architecture, JavaScript, React
+- Location - Pittsburg, California
+
 #### J.J. Jackson
 
 - [@jjjacksn](http://twitter.com/jjjacksn)
@@ -947,6 +953,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@KeshaWillz](http://twitter.com/KeshaWillz)
 - Topics - AWS, Facial recognition, JavaScript
 - Location - Atlanta, Georgia
+
+#### Jem Young
+
+- [@JemYoung](http://twitter.com/JemYoung)
+- Topics - FrontEnd, JavaScript, Code maintenance
+- Location - San Francisco, California
 
 ### Zambia
 
