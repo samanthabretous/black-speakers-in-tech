@@ -509,6 +509,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Tech Leadership, Apache
 - Location - Atlanta, Georgia
 
+#### Pierre DeBois
+
+- [@ZimanaAnalytics](http://twitter.com/ZimanaAnalytics)
+- Topics - R programming (Data Science Models, Google Analytics, Digital Marketing Strategy (Social Media, Digital Ads, Content Marketing), Business Development Strategy
+- Location - Chicago, IN
+
 #### Rhia Dixon
 
 - [@TheFakeRiRi](http://twitter.com/TheFakeRiRi)
