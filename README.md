@@ -231,6 +231,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, React, Building Communities
 - Location - Lagos, Nigeria
 
+#### Samuel Akinosho
+
+- [@SamuelAkins12](https://twitter.com/SamuelAkins12)
+- Topics - Artificial Intelligence & Internet of Things
+- Location - Lagos, Nigeria
+
 #### Shedrack Akintayo
 
 - [@coder_blvck](https://twitter.com/coder_blvck)
