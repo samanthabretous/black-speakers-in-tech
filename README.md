@@ -479,6 +479,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Agile Game development, Serious games for Ed, gamification, Diversity in games, Indie development
 - Location - California
 
+#### Aaron Clark
+
+- [@byAaronC](http://twitter.com/byAaronC)
+- Topics - Diversity, Equity, Inclusion, Criminal Justice Reform, New in Tech, Twilio,
+/dev/color/,  
+- Location - Colorado & California
+
 #### J. Clemonts Junior
 
 - [@Technificent989](http://twitter.com/Technificent989)
