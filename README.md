@@ -171,6 +171,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Open Source
 - Location - Lisbon, Portugal
 
+#### Amadou Sall
+
+- [@ahasall](http://twitter.com/ahasall)
+- Topics - Angular
+- Location - Toulouse, France
+
 ### Kenya
 
 #### Juma Allan
