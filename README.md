@@ -901,7 +901,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Mariah Rucker
 
 - [@PatronusCode](http://twitter.com/wmsbill)
-- Topics - Machine Learning, Entrepreneurship, Finance, Career, FinTech, Harry Potter
+- Topics - Machine Learning, Entrepreneurship, Finance, Career Development, FinTech, Harry Potter
 - Location - Cleveland, Ohio
 
 #### Carlos Rymer
