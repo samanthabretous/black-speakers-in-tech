@@ -81,11 +81,23 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - TensorFlow.js, JavaScript
 - Location - Cambridge, England
 
+#### Isabel Costa
+
+- [@isabelcmdcosta](http://twitter.com/isabelcmdcosta)
+- Topics - Open Source
+- Location - Lisbon, Portugal
+
 #### Gavin Dennis
 
 - [@HackingGavin](http://twitter.com/HackingGavin)
 - Topics - Offensive Security, Security Awareness, Security Operations
 - Location - Europe
+
+#### Sheldon Callahan
+
+- [@SheldonConcept](https://twitter.com/sheldonconcept)
+- Topics - Salesforce, Devops, Continuous Integration/Delivery, Interactive Prototyping
+- Location - Belgium
 
 #### Segun Famisa
 
@@ -129,6 +141,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript
 - Location - Berlin, Germany
 
+#### Naya Moss
+
+- [@bossnayamoss](https://twitter.com/bossnayamoss)
+- Topics - Information technology, Information Security, Automation, Startup Culture, Remote Work, Modern HR, Diversity
+- Location - Romania
+
 #### Olu Niyi-Awosusi
 
 - [@oluoluoxenfree](http://twitter.com/oluoluoxenfree)
@@ -153,6 +171,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Career transition for older women into tech, Translating A.I. for the ordinary lay person, Recruitment process
 - Location - London, England
 
+#### Amadou Sall
+
+- [@ahasall](http://twitter.com/ahasall)
+- Topics - Angular
+- Location - Toulouse, France
+
 #### Kene Udeze
 
 - [@udezekene](http://twitter.com/udezekene)
@@ -165,23 +189,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
 - Location - London, England
 
-#### Isabel Costa
-
-- [@isabelcmdcosta](http://twitter.com/isabelcmdcosta)
-- Topics - Open Source
-- Location - Lisbon, Portugal
-
-#### Amadou Sall
-
-- [@ahasall](http://twitter.com/ahasall)
-- Topics - Angular
-- Location - Toulouse, France
-
 ### Kenya
 
 #### Juma Allan
 
-- [@_ jumaallan](https://twitter.com/_jumaallan)
+- [@\_ jumaallan](https://twitter.com/_jumaallan)
 - Topics - Android, Kotlin, Golang
 - Location - Nairobi, Kenya
 
@@ -233,7 +245,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Ademola Adegbuyi
 
-- [@_ooade](https://twitter.com/_ooade)
+- [@\_ooade](https://twitter.com/_ooade)
 - Topics - JavaScript, React, Building Communities
 - Location - Lagos, Nigeria
 
@@ -308,6 +320,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@lemuelOgbunude](https://twitter.com/lemuelOgbunude)
 - Topics - Android Development, Java, Kotlin, Dart
 - Location - Abuja, Nigeria
+
+#### Adefemi Michael
+
+- [@daycrawller](https://twitter.com/daycrawller)
+- Topics - DevOps, Automation and Cloud
+- Location - Ibadan, Nigeria
 
 #### Ekwuno Obinna
 
@@ -463,7 +481,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Tia Caldwell
 
-- [@_Tiacaldwell](http://twitter.com/_Tiacaldwell)
+- [@\_Tiacaldwell](http://twitter.com/_Tiacaldwell)
 - Topics - Leadership
 - Location - San Francisco, California
 
@@ -489,7 +507,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@byAaronC](http://twitter.com/byAaronC)
 - Topics - Diversity, Equity, Inclusion, Criminal Justice Reform, New in Tech, Twilio,
-/dev/color/,  
+  /dev/color/,
 - Location - Colorado & California
 
 #### J. Clemonts Junior
@@ -506,7 +524,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Chris Crawford
 
-- [@chris_crawford_](https://twitter.com/chris_crawford_)
+- [@chris*crawford*](https://twitter.com/chris_crawford_)
 - Topics - Neurotech, Robotics, Brain-Computer Interfaces
 - Location - Tuscaloosa, Alabama
 
@@ -559,6 +577,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Bay Area
 
 #### Wesley Faulkner
+
 - [@wesley83](https://twitter.com/wesley83)
 - Topics - MongoDB, Soft Skills
 - Location - Austin, TX, USA
@@ -666,7 +685,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Amal Hussein
 
-- [@nomadtechie](http://twitter.com/nomadtechie )
+- [@nomadtechie](http://twitter.com/nomadtechie)
 - Topics - JavaScript
 - Location - Boston, Massa
 
@@ -879,6 +898,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Career Development
 - Location - Atlanta, Georgia
 
+#### Mariah Rucker
+
+- [@PatronusCode](http://twitter.com/wmsbill)
+- Topics - Machine Learning within FinTech
+- Location - USA
+
 #### Carlos Rymer
 
 - [@carlosrymer](https://twitter.com/carlosrymer)
@@ -924,7 +949,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Everette Taylor
 
 - [@Everette](http://twitter.com/Everette)
-- Topics - Entrepreneurship,  Marketing
+- Topics - Entrepreneurship, Marketing
 - Location - Los Angeles, California
 
 #### Richard L Taylor Jr
