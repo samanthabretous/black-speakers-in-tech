@@ -249,6 +249,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, React, Building Communities
 - Location - Lagos, Nigeria
 
+#### Michael Ajanaku
+
+- [@remiljw](https://twitter.com/remiljw)
+- Topics - Python, Django, Git, GitHub
+- Location - Lagos,Nigeria
+
 #### Samuel Akinosho
 
 - [@SamuelAkins12](https://twitter.com/SamuelAkins12)
