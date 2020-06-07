@@ -405,6 +405,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Accessibility, Design Thinking, Tech Marketing, React, React Native, Node.js, Python, Building Communities
 - Location - Lagos, Nigeria
 
+#### Aminu Israel
+
+- [@aminu_israelb](https://twitter.com/Aminu_Israelb)
+- Topics - Data Science, Backend Development
+- Location - Lagos, Nigeria
+
 ### Uganda
 
 #### Edison Abahurire
