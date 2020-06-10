@@ -75,6 +75,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
+#### Jemima Abu
+
+- [@jemimaabu](https://twitter.com/jemimaabu)
+- Topics - CSS, JavaScript, Tech careers
+- Location - Lithuania
+
 #### Yannick Assogba
 
 - [@tafsiri](http://twitter.com/tafsiri)
@@ -490,6 +496,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@samanthabretous](http://twitter.com/samanthabretous)
 - Topics - React, D3, Gatsby, Shared Components, Mentorship
 - Location - New York, New York
+
+#### Donovan Brown
+
+- [@donovanbrown](https://twitter.com/donovanbrown)
+- Topics - DevOps, Azure
+- Location - Spring, TX
 
 #### Tia Caldwell
 
@@ -951,6 +963,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@ericastanley](http://twitter.com/ericastanley)
 - Topics - Managing engineers
 - Location - Atlanta, Georgia
+
+#### Sharon Steed
+
+- [@sharonsteed](https://twitter.com/sharonsteed)
+- Topics - Empathy
+- Location - USA
 
 #### Kevin Stewart
 
