@@ -431,7 +431,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Gospel Lekia
 
-- [@Lekia_G](https://twitter.com/@Lekia_G)
+- [@Lekia_G](https://twitter.com/Lekia_G)
 - Topics - PHP, JavaScript, Laravel
 - Location - Lagos, Nigeria
 
