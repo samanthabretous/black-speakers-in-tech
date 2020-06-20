@@ -429,6 +429,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Data Science, Backend Development
 - Location - Lagos, Nigeria
 
+#### Gospel Lekia
+
+- [@codedoctrine](https://twitter.com/codedoctrine)
+- Topics - PHP, JavaScript, Laravel
+- Location - Lagos, Nigeria
+
+
 ### Uganda
 
 #### Edison Abahurire
