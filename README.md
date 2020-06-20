@@ -405,6 +405,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Image & Video Performance, JavaScript, Frontend Development, Building Communities
 - Location - Lagos, Nigeria
 
+#### Victor Steven
+
+- [@stevensunflash](https://twitter.com/stevensunflash)
+- Topics - Go, JavaScript, PHP, DevOps
+- Location - Lagos, Nigeria
+
 #### Oluwatoi Akindunjoye
 
 - [@oluwatobimayowa](http://twitter.com/oluwatobimayowa)
