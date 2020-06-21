@@ -677,6 +677,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Entrepreneurship, Startups
 - Location - San Francisco, California
 
+#### Scott Moss
+
+- [@scotups](https://twitter.com/scotups)
+- Topics - Entrepreneurship, Startups, Node.js, GraphQL, Javascript
+- Location - San Francisco, California
+
 #### Susa Hart
 
 - [@smhart1](http://twitter.com/smhart1)
