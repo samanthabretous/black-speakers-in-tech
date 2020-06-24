@@ -73,6 +73,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Javascript, React Native, A11y
 - Location - Toronto, Canada
 
+#### Ore Ogundipe
+
+- [@ogundipeore](https://twitter.com/ogundipeore)
+- Topics - Data Intelligence, Using Azure Services for ML, Web Technologies
+- Location - Vancouver, Canada
+
 ### Europe
 
 #### Jemima Abu
