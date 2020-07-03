@@ -105,12 +105,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Offensive Security, Security Awareness, Security Operations
 - Location - Europe
 
-#### Sheldon Callahan
-
-- [@SheldonConcept](https://twitter.com/sheldonconcept)
-- Topics - Salesforce, Devops, Continuous Integration/Delivery, Interactive Prototyping
-- Location - Belgium
-
 #### Segun Famisa
 
 - [@segunfamisa](https://twitter.com/segunfamisa)
@@ -441,7 +435,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, JavaScript, Laravel
 - Location - Lagos, Nigeria
 
-
 ### Uganda
 
 #### Edison Abahurire
@@ -527,6 +520,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@\_Tiacaldwell](http://twitter.com/_Tiacaldwell)
 - Topics - Leadership
 - Location - San Francisco, California
+
+#### Sheldon Callahan
+
+- [@SheldonConcept](https://twitter.com/sheldonconcept)
+- Topics - Salesforce, Devops, Continuous Integration/Delivery, Interactive Prototyping
+- Location - Oakland, CA
 
 ### Kara Carrell
 
@@ -935,6 +934,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Angular
 - Location - Atlanta, Georgia
 
+#### Denae Ford Robinson
+
+- [@denarfordrobin](https://twitter.com/denaefordrobin)
+- Topics: empirical research studying software developers in online communities (e.g., Stack Overflow, GitHub) and how they can support women, newcomers, and the Global South
+- Location: Seattle, WA
+
 #### Brandon T Roberts
 
 - [@brandontroberts](http://twitter.com/brandontroberts)
@@ -959,17 +964,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Engineering Management, Leadership, Building on the Cloud, Lean UX, Javascript
 - Location - New York, New York
 
-#### Rodney Sampson
-
-- [@rodneysampson](http://twitter.com/rodneysampson)
-- Topics - Entrepreneurship, venture investment, startup ecosystem building, inclusion & racial equity
-- Location - Atlanta, Georgia
-
 #### Cassandra Salisbury
 
 - [@Cassandraoid](http://twitter.com/Cassandraoid)
 - Topics - Go, Open Source
 - Location - San Francisco, California
+
+#### Rodney Sampson
+
+- [@rodneysampson](http://twitter.com/rodneysampson)
+- Topics - Entrepreneurship, venture investment, startup ecosystem building, inclusion & racial equity
+- Location - Atlanta, Georgia
 
 #### Kerry Schrader
 
