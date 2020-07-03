@@ -159,6 +159,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Git, Github
 - Location - London, England
 
+#### Omosola Odetunde
+
+- [@omosolatweets](https://twitter.com/omosolatweets)
+- Topics - product engineering, new product development, engineering management, tech leadership, machine learning and AI, ethics in AI, career and professional development
+- Location - Europe, USA
+
 #### Tolúlọpẹ́ Ògúnrẹ̀mí
 
 - [@tolulopero](http://twitter.com/tolulopero)
@@ -361,6 +367,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@ichtrojan](http://twitter.com/ichtrojan)
 - Topics - Web Development and DevOps
+- Location - Lagos, Nigeria
+
+#### Michael Olaonipekun Olanrewaju
+
+- [@OlaOlaoni](https://twitter.com/OlaOlaoni)
+- Topics - Android, Tensorflow, Machine learning
 - Location - Lagos, Nigeria
 
 #### Prosper Otemuyiwa
