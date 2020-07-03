@@ -982,6 +982,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Go, Open Source
 - Location - San Francisco, California
 
+#### Aaron K Saunders
+
+- [@twitterhandle](http://twitter.com/aaronksaunders)
+- Topics - Technology, Entrepreneurship Training
+- Location - Washington DC
+
 #### Rodney Sampson
 
 - [@rodneysampson](http://twitter.com/rodneysampson)
