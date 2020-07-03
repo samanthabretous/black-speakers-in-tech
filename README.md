@@ -369,7 +369,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Web Development and DevOps
 - Location - Lagos, Nigeria
 
-#### Michael Olaonipekun Olanrewaju
+#### Olaonipekun Olanrewaju
 
 - [@OlaOlaoni](https://twitter.com/OlaOlaoni)
 - Topics - Android, Tensorflow, Machine learning
