@@ -279,10 +279,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Reactjs, Javascript, Open Source
 - Location - Lagos, Nigeria
 
+#### Oluwatoi Akindunjoye
+
+- [@oluwatobimayowa](http://twitter.com/oluwatobimayowa)
+- Topics - UX Design, Design-Development Handoff, Design Thinking
+- Location - Lagos, Nigeria
+
 #### Eyitayo Alimi
 
 - [@alimieyitayo](https://twitter.com/alimieyitayo)
 - Topics - Technology , Community, DevOps
+- Location - Lagos, Nigeria
+
+#### Alexander Asomba
+
+- [@alexAsomba](https://twitter.com/alexasomba)
+- Topics - Accessibility, Design Thinking, Tech Marketing, React, React Native, Node.js, Python, Building Communities
 - Location - Lagos, Nigeria
 
 #### Wale Ayandiran
@@ -315,6 +327,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Laravel, JavaScript, React, React Native, Microservice, Building Communities
 - Location - Lagos, Nigeria
 
+#### Aminu Israel
+
+- [@aminu_israelb](https://twitter.com/Aminu_Israelb)
+- Topics - Data Science, Backend Development
+- Location - Lagos, Nigeria
+
 #### Anayo Oleru
 
 - [@AnayoOleru](https://twitter.com/AnayoOleru)
@@ -331,6 +349,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@neoighodaro](https://twitter.com/neoighodaro)
 - Topics - PHP, Laravel, Javascript.
+- Location - Lagos, Nigeria
+
+#### Gospel Lekia
+
+- [@Lekia_G](https://twitter.com/Lekia_G)
+- Topics - PHP, JavaScript, Laravel
 - Location - Lagos, Nigeria
 
 #### Ogbunude Lemuel
@@ -423,28 +447,10 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Go, JavaScript, PHP, DevOps
 - Location - Lagos, Nigeria
 
-#### Oluwatoi Akindunjoye
+#### Lade Tawak
 
-- [@oluwatobimayowa](http://twitter.com/oluwatobimayowa)
-- Topics - UX Design, Design-Development Handoff, Design Thinking
-- Location - Lagos, Nigeria
-
-#### Alexander Asomba
-
-- [@alexAsomba](https://twitter.com/alexasomba)
-- Topics - Accessibility, Design Thinking, Tech Marketing, React, React Native, Node.js, Python, Building Communities
-- Location - Lagos, Nigeria
-
-#### Aminu Israel
-
-- [@aminu_israelb](https://twitter.com/Aminu_Israelb)
-- Topics - Data Science, Backend Development
-- Location - Lagos, Nigeria
-
-#### Gospel Lekia
-
-- [@Lekia_G](https://twitter.com/Lekia_G)
-- Topics - PHP, JavaScript, Laravel
+- [@LadeTawak](https://twitter.com/ladetawak)
+- Topics - Service Design, Experience Design, Research in Design, Design Thinking, Design Sprints, Career Growth, Community.
 - Location - Lagos, Nigeria
 
 ### Uganda
