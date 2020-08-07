@@ -255,6 +255,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Frontend Development, UI Design, JavaScript
 - Location - Lagos, Nigeria
 
+#### Gift Egwuenu
+
+- [@lauragift_](http://twitter.com/lauragift_)
+- Topics - Frontend Development, Jamstack, Career in Tech, Soft Skills
+- Location - Lagos, Nigeria
+
 #### Ademola Adegbuyi
 
 - [@\_ooade](https://twitter.com/_ooade)
