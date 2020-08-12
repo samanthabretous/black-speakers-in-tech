@@ -249,6 +249,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, Laravel, Javascript, Open-Source.
 - Location - Lagos, Nigeria
 
+#### David Adeneye
+
+- [@davidadeneye](https://twitter.com/davidadeneye)
+- Topics - Frontend Development, UI Design, System Analysis, JavaScript, Building Communities.
+- Location - Lagos, Nigeria
+
 #### Ire Aderinokun
 
 - [@ireaderinokun](https://twitter.com/ireaderinokun)
