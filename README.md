@@ -453,6 +453,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Service Design, Experience Design, Research in Design, Design Thinking, Design Sprints, Career Growth, Community.
 - Location - Lagos, Nigeria
 
+#### Oluwatobi Shokunbi
+
+- [@just1and0](https://twitter.com/just1and0)
+- Topics - React Native, UI Automation in React Native, React Native to infinity and beyond.
+- Location - Abuja, Nigeria
+
+
 ### Uganda
 
 #### Edison Abahurire
