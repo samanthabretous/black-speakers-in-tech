@@ -261,6 +261,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Frontend Development, UI Design, JavaScript
 - Location - Lagos, Nigeria
 
+#### Gift Egwuenu
+
+- [@lauragift_](http://twitter.com/lauragift_)
+- Topics - Frontend Development, Jamstack, Career in Tech, Soft Skills
+- Location - Lagos, Nigeria
+
 #### Ademola Adegbuyi
 
 - [@\_ooade](https://twitter.com/_ooade)
@@ -458,6 +464,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@LadeTawak](https://twitter.com/ladetawak)
 - Topics - Service Design, Experience Design, Research in Design, Design Thinking, Design Sprints, Career Growth, Community.
 - Location - Lagos, Nigeria
+
+#### Oluwatobi Shokunbi
+
+- [@just1and0](https://twitter.com/just1and0)
+- Topics - React Native, UI Automation in React Native, React Native to infinity and beyond.
+- Location - Abuja, Nigeria
+
 
 ### Uganda
 
