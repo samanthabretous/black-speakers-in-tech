@@ -243,6 +243,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Nigeria
 
+#### Abduljeleel Yusuff
+
+- [@abduljeleelng](https://twitter.com/abduljeleelng)
+- Topics - Node js, React js, React Native, PHP (Laravel Lumen), Open Source Lover.
+- Location - Nigeria
+
 #### Adewale Abati
 
 - [@ace_kyd](https://twitter.com/ace_kyd)
@@ -470,6 +476,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@just1and0](https://twitter.com/just1and0)
 - Topics - React Native, UI Automation in React Native, React Native to infinity and beyond.
 - Location - Abuja, Nigeria
+
 
 
 ### Uganda
