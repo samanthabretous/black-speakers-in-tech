@@ -690,6 +690,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Designing a better experience, UI Design, Product Architecture, Diversity & Integration (not Inclusion)
 - Location - Plano, Texas
 
+#### Jacqueline Gibson
+
+- [@this_is_jcg](http://twitter.com/this_is_jcg)
+- Topics - Accessibility/Usability, Digital Equity, Race and Technology, The Digital Divide, Inclusive Culture
+- Location - Seattle, Washington / Dallas, Texas
+
 #### Alfred Glover
 
 - [@AlfredKGlover](http://twitter.com/AlfredKGlover)
