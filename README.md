@@ -28,7 +28,6 @@ Please add speakers alphabetical by last name.
   - [Niger](#niger)
   - [Nigeria](#nigeria)
   - [Uganda](#uganda)
-  - [United Kingdom](#united-kingdom)
   - [United States](#united-states)
   - [Zambia](#zambia)
 
@@ -201,6 +200,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@saniyusuf](https://twitter.com/saniyusuf)
 - Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
 - Location - London, England
+
+#### Yetunde Dada
+
+- [@yetudada](https://twitter.com/yetudada)
+- Topics - Open Source, Data Science, [Kedro](https://www.youtube.com/watch?v=OFObles2CJs&ab_channel=PyData), Data Pipelines, UX Research, Product Management
+- Location - London, United Kingdom
 
 ### Kenya
 
@@ -509,14 +514,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@StephenMugish11](https://twitter.com/StephenMugish11)
 - Topics - Software engineering, Artificial intelligence
 - Location - Kampala, Uganda
-
-### United Kingdom
-
-#### Yetunde Dada
-
-- [@yetudada](https://twitter.com/yetudada)
-- Topics - Open Source, Data Science, [Kedro](https://www.youtube.com/watch?v=OFObles2CJs&ab_channel=PyData), Data Pipelines, UX Research, Product Management
-- Location - London, United Kingdom
 
 ### United States
 
