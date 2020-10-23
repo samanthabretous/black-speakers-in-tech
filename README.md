@@ -201,6 +201,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
 - Location - London, England
 
+#### Yetunde Dada
+
+- [@yetudada](https://twitter.com/yetudada)
+- Topics - Open Source, Data Science, [Kedro](https://www.youtube.com/watch?v=OFObles2CJs&ab_channel=PyData), Data Pipelines, UX Research, Product Management
+- Location - London, United Kingdom
+
 ### Kenya
 
 #### Juma Allan
@@ -476,8 +482,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@just1and0](https://twitter.com/just1and0)
 - Topics - React Native, UI Automation in React Native, React Native to infinity and beyond.
 - Location - Abuja, Nigeria
-
-
 
 ### Uganda
 
