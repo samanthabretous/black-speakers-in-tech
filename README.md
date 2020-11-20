@@ -275,7 +275,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Gift Egwuenu
 
-- [@lauragift_](http://twitter.com/lauragift_)
+- [@lauragift\_](http://twitter.com/lauragift_)
 - Topics - Frontend Development, Jamstack, Career in Tech, Soft Skills
 - Location - Lagos, Nigeria
 
@@ -1008,7 +1008,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Mariah Rucker
 
-- [@PatronusCode](http://twitter.com/wmsbill)
+- [@PatronusCode](http://twitter.com/PatronusCODE)
 - Topics - Machine Learning, Entrepreneurship, Finance, Career Development, FinTech, Harry Potter
 - Location - Cleveland, Ohio
 
