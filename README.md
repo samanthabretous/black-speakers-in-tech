@@ -1024,17 +1024,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Go, Open Source
 - Location - San Francisco, California
 
-#### Aaron K Saunders
-
-- [@twitterhandle](http://twitter.com/aaronksaunders)
-- Topics - Technology, Entrepreneurship Training
-- Location - Washington DC
-
 #### Rodney Sampson
 
 - [@rodneysampson](http://twitter.com/rodneysampson)
 - Topics - Entrepreneurship, venture investment, startup ecosystem building, inclusion & racial equity
 - Location - Atlanta, Georgia
+
+#### Aaron K Saunders
+
+- [@aaronksaunders](http://twitter.com/aaronksaunders)
+- Topics - web development, mobile development, training, entrepreneurship, startups
+- Location - Washington DC
 
 #### Kerry Schrader
 
