@@ -223,7 +223,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Eton Otieno
 
-- [@eton_otieno](http://twitter.com/eton_otieno)
+- [@etonotieno](http://twitter.com/etonotieno)
 - Topics - Android, Kotlin
 - Location - Nairobi, Kenya
 
