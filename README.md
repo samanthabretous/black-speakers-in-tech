@@ -207,6 +207,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Open Source, Data Science, [Kedro](https://www.youtube.com/watch?v=OFObles2CJs&ab_channel=PyData), Data Pipelines, UX Research, Product Management
 - Location - London, United Kingdom
 
+#### Bola Ajose
+
+- [@hola_bolaa](https://twitter.com/hola_bolaa)
+- Topics - Career transition into Tech, Personal Leadership, STEM communication and engaging young people
+- Location - London, England
+
 ### Kenya
 
 #### Juma Allan
