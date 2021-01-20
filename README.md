@@ -87,6 +87,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - CSS, JavaScript, Tech careers
 - Location - Lithuania
 
+#### Bola Ajose
+
+- [@hola_bolaa](https://twitter.com/hola_bolaa)
+- Topics - Career transition into Tech, Personal Leadership, STEM communication and engaging young people
+- Location - London, England
+
 #### Yannick Assogba
 
 - [@tafsiri](http://twitter.com/tafsiri)
@@ -104,6 +110,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@isabelcmdcosta](http://twitter.com/isabelcmdcosta)
 - Topics - Open Source
 - Location - Lisbon, Portugal
+
+#### Yetunde Dada
+
+- [@yetudada](https://twitter.com/yetudada)
+- Topics - Open Source, Data Science, Kedro, Data Pipelines, UX Research, Product Management
+- Location - London, United Kingdom
 
 #### Gavin Dennis
 
@@ -205,18 +217,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@saniyusuf](https://twitter.com/saniyusuf)
 - Topics - Ionic, Angular, Frontend Development, UI Design, JavaScript
-- Location - London, England
-
-#### Yetunde Dada
-
-- [@yetudada](https://twitter.com/yetudada)
-- Topics - Open Source, Data Science, [Kedro](https://www.youtube.com/watch?v=OFObles2CJs&ab_channel=PyData), Data Pipelines, UX Research, Product Management
-- Location - London, United Kingdom
-
-#### Bola Ajose
-
-- [@hola_bolaa](https://twitter.com/hola_bolaa)
-- Topics - Career transition into Tech, Personal Leadership, STEM communication and engaging young people
 - Location - London, England
 
 ### Kenya
@@ -1000,17 +1000,23 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Angular
 - Location - Atlanta, Georgia
 
+#### Brandon T Roberts
+
+- [@brandontroberts](http://twitter.com/brandontroberts)
+- Topics - Angular
+- Location - Alabama
+
 #### Denae Ford Robinson
 
 - [@denarfordrobin](https://twitter.com/denaefordrobin)
 - Topics: empirical research studying software developers in online communities (e.g., Stack Overflow, GitHub) and how they can support women, newcomers, and the Global South
 - Location: Seattle, WA
 
-#### Brandon T Roberts
+#### Elyse Y. Robinson
 
-- [@brandontroberts](http://twitter.com/brandontroberts)
-- Topics - Angular
-- Location - Alabama
+- [@mselyserobinson](http://twitter.com/mselyserobinson)
+- Topics: Switching Careers, Becoming an Entrepreneur in IT
+- Location: Houston, Texas
 
 #### Craig Rodrigues
 
