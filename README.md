@@ -93,6 +93,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - TensorFlow.js, JavaScript
 - Location - Cambridge, England
 
+#### Lais Carvalho
+
+- [@laisbsc](http://twitter.com/lais_bsc)
+- Topics - Open source, Data Science, Python and Developer Relations
+- Location - Dublin, Ireland
+
 #### Isabel Costa
 
 - [@isabelcmdcosta](http://twitter.com/isabelcmdcosta)
