@@ -113,8 +113,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Yetunde Dada
 
-- [@yetudada](https://twitter.com/yetudada)
-- Topics - Open Source, Data Science, Kedro, Data Pipelines, UX Research, Product Management
+- [@yetudada](https://github.com/yetudada)
+- Topics - Open Source, Data Science, [Kedro](https://github.com/quantumblacklabs/kedro), Data Pipelines, UX Research, Product Management
 - Location - London, United Kingdom
 
 #### Gavin Dennis
