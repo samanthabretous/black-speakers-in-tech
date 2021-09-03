@@ -1107,6 +1107,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - VR, Product
 - Location - San Francisco, California
 
+#### Adam Thomas
+
+- @ThehonorableAT(http://twitter.com/ThehonorableAT)
+- Topics - Product Strategy, Innovation, Product Leadership
+- Location - New York, NY
+
 #### Tiffany Thompson
 
 - [@tiffalwaysfly](http://twitter.com/tiffalwaysfly)
