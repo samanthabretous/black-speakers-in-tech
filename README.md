@@ -67,6 +67,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Web Performance & Technologies
 - Location - Toronto, Canada
 
+#### Mukhtar Kadiri
+
+- [@MukhtarK13](http://twitter.com/MukhtarK13)
+- Topics - Communication, Collaboration, Career Advice, Standing out at work
+- Location - Canada
+
 #### Jason Matthews
 
 - [@frontvu](http://twitter.com/frontvu)
