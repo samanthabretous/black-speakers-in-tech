@@ -44,7 +44,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Farouk Sabiou
 
 - [@sabiiou](https://twitter.com/sabiiou)
-- Topics - Abdroid, java, Kotlin, Firebase
+- Topics - Android, java, Kotlin, Firebase
 - Location - Douala, Cameroon
 
 ### Canada
