@@ -797,6 +797,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Data Science
 - Location - Silicon Valley, California
 
+#### Andrea Hobby
+
+- [@ahobby9](https://twitter.com/ahobby9)
+- Topics - Tech/Data science applications in healthcare
+- Location - Washington DC
+
 #### Asia Hoe
 
 - [@asiahoe](https://twitter.com/asiahoe)
