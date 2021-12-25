@@ -219,6 +219,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Collaborative UX Design, CSS, Accessibility, Inclusive Design
 - Location - Amsterdam, Netherlands
 
+#### Tennessee Watt
+
+- [@tennesseelw](http://twitter.com/tennesseelw)
+- Topics - Tech Marketing, Inclusion, Racial Equity/Social Justice in Tech, Brand Identity
+- Location - London, England
+
 #### Sani Yusuf
 
 - [@saniyusuf](https://twitter.com/saniyusuf)
