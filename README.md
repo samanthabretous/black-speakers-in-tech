@@ -1172,6 +1172,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - FrontEnd, JavaScript, Code maintenance
 - Location - San Francisco, California
 
+#### Treva Nichole Williams
+
+- [@OGtrilliams](http://twitter.com/OGtrilliams)
+- Topics - DEI, OpenStack, OpenShift, Kubernetes, Infrastructure-as-a-Service, developer relations, mental health
+- Location - New York
+
 ### Zambia
 
 #### Mukuma Musenge
